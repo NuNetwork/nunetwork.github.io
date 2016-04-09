@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    
+    <div class="page-title-wrapper">
+    	<div class="container">
+    		<div class="wrapper">
+    			<div class="page-title">
+    				<!--<nav class="breadcrumb-nav"><ul><li><a href="/"></a></li><li><a href="/" title="">About</a></li></ul></nav>	-->
+    				<h1>{{ page.title }}</h1>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+
+    <div class="container">
+      <div class="wrapper show-sidebar">
+        <div class="sidebar">
+  				<h2><a href="#"></a><a href="/about">{{ page.menu }}</a></h2>
+          <ul class="nav">
+            {% for site_page in site.pages %}
+              {% for pc in site_page.menu %}
+                {% if pc == page.menu %}
+                  <li {% if site_page.url == page.url %}class="active"{% endif %}><a href="{{ site_page.url }}">{{ site_page.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="page-content">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

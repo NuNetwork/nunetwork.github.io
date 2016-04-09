@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-play 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon-play" sketch:type="MSLayerGroup" fill="#FFFFFF">
+            <g id="_x31_241-play_x40_2x.png" sketch:type="MSShapeGroup">
+                <path d="M31.622,21.235 L31.631,21.224 L17.631,12.224 L17.622,12.235 C17.45,12.096 17.239,12 17,12 C16.448,12 16,12.448 16,13 L16,31 C16,31.553 16.448,32 17,32 C17.239,32 17.449,31.904 17.622,31.765 L17.631,31.777 L31.631,22.777 L31.622,22.765 C31.847,22.582 32,22.313 32,22 C32,21.687 31.847,21.419 31.622,21.235 L31.622,21.235 Z M22,0 C9.85,0 0,9.85 0,22 C0,34.15 9.85,44 22,44 C34.15,44 44,34.15 44,22 C44,9.85 34.15,0 22,0 L22,0 Z M22,42 C10.954,42 2,33.046 2,22 C2,10.954 10.954,2 22,2 C33.046,2 42,10.954 42,22 C42,33.046 33.046,42 22,42 L22,42 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,38 +1,49 @@
 <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+    <div class="container">
+      <div class="wrapper">
+        <div class="footer-col link-list">
+          <h3>About</h3>
+          
+<ul class="nav"><li class="first leaf"><a href="/about/white-paper" title="">White Paper</a></li>
+<li class="leaf"><a href="/about/source-code" title="">Source Code</a></li>
+<li class="leaf"><a href="/about/faqs" title="">FAQs</a></li>
+<li class="leaf"><a href="/about/price-stability" title="">Price Stability</a></li>
+<li class="last leaf"><a href="/about/jobs" title="">Jobs</a></li>
+</ul>        </div>
+        <div class="footer-col link-list">
+          <h3>Tools</h3>
+          
+<ul class="nav"><li class="first leaf"><a href="https://Blockexplorer.nu" title="">NuExplorer</a></li>
+<li class="leaf"><a href="http://nu.bippy.org/" title="">NuBippy</a></li>
+<li class="last leaf"><a href="http://docs.nubits.com" title="">Documentation</a></li>
+</ul>        </div>
+        <div class="footer-col link-list">
+          <h3>Exchanges</h3>
+          
+<ul class="nav"><li class="first leaf"><a href="https://poloniex.com" title="">Poloniex</a></li>
+<li class="leaf"><a href="https://bittrex.com" title="">Bittrex</a></li>
+<li class="leaf"><a href="https://www.cryptsy.com" title="">Cryptsy</a></li>
+<li class="leaf"><a href="https://bter.com" title="">BTER</a></li>
+<li class="last leaf"><a href="https://shapeshift.io" title="">ShapeShift</a></li>
+</ul>        </div>
+        <div class="footer-col footer-connect">
+          <h3>Connect</h3>
+          <ul>
+            <li><a href="http://reddit.com/r/NuBits" target="_blank"><img src="/assets/img/global/icon-reddit.png"><span>Reddit</span></a></li>
+            <li><a href="http://twitter.com/OfficialNuBits" target="_blank"><img src="/assets/img/global/icon-twitter.png"><span>Twitter</span></a></li>
+            <li><a href="http://facebook.com/OfficialNuBits" target="_blank"><img src="/assets/img/global/icon-facebook.png"><span>Facebook</span></a></li>
+            <li><a href="http://discuss.nubits.com" target="_blank"><img src="/assets/img/global/icon-nubits.png"><span>Forums</span></a></li>
+          </ul>
+        </div>
       </div>
+      <div class="footer-bottom">
+        <div class="company">
+          © NuBits 2016          
+<ul class="nav"><li class="first leaf"><a href="/disclaimer" title="">Disclaimer</a></li>
+<li class="leaf"><a href="/contact" title="">Contact</a></li>
+<li class="last leaf"><a href="/sitemap.xml" title="">Sitemap</a></li>
+</ul>        </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+              </div>
     </div>
-
-  </div>
-
-</footer>
+  </footer>
