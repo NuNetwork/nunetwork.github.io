@@ -1,5 +1,6 @@
 ---
-layout: page_sidebar
+layout: page
+show_sidebar: true
 title: Source Code
 permalink: /about/source-code
 menu: About

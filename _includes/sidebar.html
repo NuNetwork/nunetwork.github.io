@@ -1,0 +1,16 @@
+<div class="sidebar">
+  <h2>{{ page.menu }}</h2>
+  <ul class="nav">
+    {% for site_page in site.pages %}
+      {% for pc in site_page.menu %}
+        {% if pc == page.menu %}
+          {% if site_page.externallink %}
+            <li><a href="{{ site_page.externallink }}" target="_blank">{{ site_page.title }}</a></li>
+          {% else %}
+            <li {% if site_page.url == page.url %}class="active"{% endif %}><a href="{{ site_page.url }}">{{ site_page.title }}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>

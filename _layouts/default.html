@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{% if page.permalink %}page{{ page.permalink | replace: '/','-' }}{% else %}front{% endif %}">
 
     {% include header.html %}
     

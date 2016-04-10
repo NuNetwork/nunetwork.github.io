@@ -1,5 +1,6 @@
 ---
-layout: page_sidebar
+layout: page
+show_sidebar: true
 title: NuBits (NBT)
 permalink: /exchanges/nubits-exchanges
 menu: Exchanges

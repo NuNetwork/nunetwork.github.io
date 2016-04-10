@@ -1,5 +1,6 @@
 ---
-layout: page_sidebar
+layout: page
+show_sidebar: true
 title: FAQs
 permalink: /about/faqs
 menu: About

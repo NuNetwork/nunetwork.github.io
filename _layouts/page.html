@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{% if page.permalink %}page{{ page.permalink | replace: '/','-' }}{% else %}front{% endif %}">
 
     {% include header.html %}
     
@@ -19,9 +19,20 @@
     </div>
 
     <div class="container">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      
+      {% if page.show_sidebar %}
+        <div class="wrapper show-sidebar">
+          {% include sidebar.html %}
+          <div class="page-content">
+            {{ content }}
+          </div>
+        </div>
+      {% else %}
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      {% endif %}
+      
     </div>
 
     {% include footer.html %}

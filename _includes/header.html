@@ -36,7 +36,11 @@
                           <a href="javascript:return false" class="dropdown-toggle">{{ menu-item }}</a>
                           <ul class="dropdown-menu">
                         {% endif %}
-                        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                        {% if page.externallink %}
+                          <li><a href="{{ page.externallink }}" target="_blank">{{ page.title }}</a></li>
+                        {% else %}
+                          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                        {% endif %}
                       {% endif %}
                     {% endif %}
                   {% endfor %}

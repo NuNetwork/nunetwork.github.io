@@ -17,4 +17,4 @@ markdown: kramdown
 
 include: ["_pages"]
 
-menu-list: ["About", "Exchanges", "Download"]
+menu-list: ["About", "Exchanges", "Liquidity Pools", "Resources", "Connect", "NuShares", "Download"]

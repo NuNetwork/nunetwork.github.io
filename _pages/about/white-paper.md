@@ -1,5 +1,6 @@
 ---
-layout: page_sidebar
+layout: page
+show_sidebar: true
 title: White Paper
 permalink: /about/white-paper
 menu: About

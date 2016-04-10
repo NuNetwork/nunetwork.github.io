@@ -1,5 +1,6 @@
 ---
-layout: page_sidebar
+layout: page
+show_sidebar: true
 title: NuShares (NSR)
 permalink: /exchanges/nushares-exchanges
 menu: Exchanges
