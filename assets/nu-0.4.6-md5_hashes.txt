@@ -1,3 +1,0 @@
-MD5 (nu-0.4.6-osx.zip) = ef7920e9b9f8ef0d5d03e7cf7de88608
-MD5 (nu-0.4.6-linux.zip) = 8bc17cdd0f4cf6fc78f67bf5163ad94e
-MD5 (nu-0.4.6-win.zip) = fc7788fb87fd7e68da658ec96f1b0b1d

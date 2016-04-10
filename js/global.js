@@ -35,7 +35,6 @@
 
   $(document).ready(function(){
     if ($('body').hasClass('front')) {
-    console.log('rinnong');
     
 			// Video - Open
 			$('#hero-content .btn-video').on('click', function(){
