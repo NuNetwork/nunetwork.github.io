@@ -15,6 +15,9 @@ url: "http://hardcore-dev.github.io" # the base hostname & protocol for your sit
 # Build settings
 markdown: kramdown
 
+sass:
+  style: compressed
+
 include: ["_pages"]
 
 menu-list: ["About", "Exchanges", "Liquidity Pools", "Resources", "Connect", "NuShares", "Download"]
