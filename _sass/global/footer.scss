@@ -117,14 +117,8 @@ $footerHeight: 340px; // Set the height of the footer here
 }
 
 
-
 // Sticky Footer
 // -----------------------------------------------------------------
-
-// Instructions:
-// 1. Add #push div below the page content variable in html.tpl.php
-// 2. Wrap all content above the footer in a #wrap div
-// 3. Set the $footerHeight variable to the height of the footer
 
 @media (min-width: 768px) {
 
@@ -153,27 +147,15 @@ $footerHeight: 340px; // Set the height of the footer here
 
 // Responsive: Large desktop and up
 // --------------------------------------------------
-@media (min-width: 1200px) {
-
-
-
-}
+@media (min-width: 1200px) { }
 
 // Responsive: Desktop to large desktop
 // --------------------------------------------------
-@media (min-width: 992px) and (max-width: 1199px) {
-
-  
-
-}
+@media (min-width: 992px) and (max-width: 1199px) { }
 
 // Responsive: Tablet to desktop
 // --------------------------------------------------
-@media (min-width: 768px) and (max-width: 991px) {
-
-  
-
-}
+@media (min-width: 768px) and (max-width: 991px) { }
 
 // Responsive: Landscape phone to desktop/tablet
 // --------------------------------------------------
@@ -277,7 +259,4 @@ $footerHeight: 340px; // Set the height of the footer here
 
 // Responsive: Up to portrait phone
 // --------------------------------------------------
-@media (max-width: 400px) {
-
-
-}
+@media (max-width: 400px) { }

@@ -6,9 +6,6 @@
 
 .trigger {
   position: absolute;
-  /*height: 1px;
-  width: 100%;
-  background: red;*/
 }
 
 header {
@@ -27,7 +24,7 @@ header {
   background-color: #211f20;
   color: #fff;
   padding: 60px 0;
-  background-image: url('../../img/home/hero-bg.png');
+  background-image: url(../assets/img/home/hero-bg.png);
   background-repeat: no-repeat;
   background-size: 1566px;
   background-position: 50% -614px;
@@ -73,13 +70,13 @@ header {
       padding: 15px 25px;
       margin: 0 5px;
       padding-left: 55px;
-      background-image: url(../../img/home/icon-download.svg);
+      background-image: url(../assets/img/home/icon-download.svg);
       background-repeat: no-repeat;
       background-size: 26px 26px;
       background-position: 20px 50%;
     }
     .btn-video {
-      background-image: url(../../img/home/icon-play.svg);
+      background-image: url(../assets/img/home/icon-play.svg);
     }
   }
   .video {
