@@ -13,9 +13,9 @@ menu: About
 
 2. [Variable transaction fees](https://discuss.nubits.com/t/passed-finalized-motion-for-protocol-changes/372)
 
-<center><a class="btn btn-primary" href="{{ site.url }}/assets/nu-whitepaper-23_sept_2014-en.pdf">Download White Paper (English)</a> <a class="btn btn-primary" href="{{ site.url }}/assets/WhitePaper%20_CHN_%20v1.01.pdf">下载白皮书（中文)</a></center><br>
+<center><a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/nu-whitepaper-23_sept_2014-en.pdf">Download White Paper (English)</a> <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/WhitePaper%20_CHN_%20v1.01.pdf">下载白皮书（中文)</a></center><br>
 
-<center><img src="{{ site.url }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center><br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center><br>
 
 <center>
 Jordan Lee<br>

@@ -7,18 +7,18 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="https://bitcointalk.org/index.php?topic=1033773.0" target="_blank"><img src="{{ site.url }}/assets/nu-logo-500.png" alt="nu-logo-500.png" /></a>
+      <a href="https://bitcointalk.org/index.php?topic=1033773.0" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/nu-logo-500.png" alt="nu-logo-500.png" /></a>
     </div>
     <div class="description">
       <a href="https://bitcointalk.org/index.php?topic=1033773.0" target="_blank"><h2>B&C Exchange Announced</h2></a>
       <h3 class="date">May 4, 2015 – <em>Bitcointalk</em></h3>
-      <p>B&C Exchange, short for ​Blocks & Chains Decentralized Exchange, aims to be the Reddit of Bitcoin {{ site.url }}/assets/ – simple, reputation-based, and easily accessible to everyone regardless of geographic location. <a href="https://bitcointalk.org/index.php?topic=1033773.0" target="_blank"> Read full article &rarr;</a></p>
+      <p>B&C Exchange, short for ​Blocks & Chains Decentralized Exchange, aims to be the Reddit of Bitcoin {{ site.url }}{{ site.baseurl }}/assets/ – simple, reputation-based, and easily accessible to everyone regardless of geographic location. <a href="https://bitcointalk.org/index.php?topic=1033773.0" target="_blank"> Read full article &rarr;</a></p>
     </div>
   </div>
 
  <div class="article">
     <div class="img">
-      <a href="https://letstalkbitcoin.com/blog/post/which-altcoins-and-why" target="_blank"><img src="{{ site.url }}/assets/logo-letstalkbitcoin-300.png" alt="logo-letstalkbitcoin-300.png" /></a>
+      <a href="https://letstalkbitcoin.com/blog/post/which-altcoins-and-why" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-letstalkbitcoin-300.png" alt="logo-letstalkbitcoin-300.png" /></a>
     </div>
     <div class="description">
       <a href="https://letstalkbitcoin.com/blog/post/which-altcoins-and-why" target="_blank"><h2>Which altcoins and why</h2></a>
@@ -29,7 +29,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.cryptoarticles.com/crypto-news/nushares-your-very-own-piece-of-nu-network-equity" target="_blank"><img src="{{ site.url }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
+      <a href="http://www.cryptoarticles.com/crypto-news/nushares-your-very-own-piece-of-nu-network-equity" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.cryptoarticles.com/crypto-news/nushares-your-very-own-piece-of-nu-network-equity" target="_blank"><h2>NuShares - Your Very Own Piece of Nu Network Equity</h2></a>
@@ -40,7 +40,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.cryptoarticles.com/crypto-news/the-nubits-ecosystem-voting-parking-liquidity-and-where-to-get-some-nbt" target="_blank"><img src="{{ site.url }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
+      <a href="http://www.cryptoarticles.com/crypto-news/the-nubits-ecosystem-voting-parking-liquidity-and-where-to-get-some-nbt" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.cryptoarticles.com/crypto-news/the-nubits-ecosystem-voting-parking-liquidity-and-where-to-get-some-nbt" target="_blank"><h2>The NuBits Ecosystem: Voting, Parking, Liquidity And Where To Get Some NBT</h2></a>
@@ -51,7 +51,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="https://discuss.nubits.com/t/openings-for-senior-qa-developer-senior-java-developer/802/14" target="_blank"><img src="{{ site.url }}/assets/nu-logo-500.png" alt="nu-logo-500.png" /></a>
+      <a href="https://discuss.nubits.com/t/openings-for-senior-qa-developer-senior-java-developer/802/14" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/nu-logo-500.png" alt="nu-logo-500.png" /></a>
    </div>
     <div class="description">
       <a href="https://discuss.nubits.com/t/openings-for-senior-qa-developer-senior-java-developer/802/14" target="_blank"><h2>Benjyz hired as Senior Java Developer for the Nu project. Welcome!</h2></a>
@@ -62,7 +62,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://newsbtc.com/2015/01/22/ccedk-adds-new-nushares-trading-pairs/" target="_blank"><img src="{{ site.url }}/assets/Logo-NewsBTC-400x400.png" alt="Logo-NewsBTC-400x400.png" /></a>
+      <a href="http://newsbtc.com/2015/01/22/ccedk-adds-new-nushares-trading-pairs/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/Logo-NewsBTC-400x400.png" alt="Logo-NewsBTC-400x400.png" /></a>
     </div>
     <div class="description">
       <a href="http://newsbtc.com/2015/01/22/ccedk-adds-new-nushares-trading-pairs/" target="_blank"><h2>CCEDK Adds New NuShares Trading Pairs</h2></a>
@@ -73,7 +73,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://dcmagnates.com/nushares-lone-bright-spot-in-sea-of-red-continue-winning-streak-into-2015/" target="_blank"><img src="{{ site.url }}/assets/logo-DCMagnates.png" alt="logo-DCMagnates.png" /></a>
+      <a href="http://dcmagnates.com/nushares-lone-bright-spot-in-sea-of-red-continue-winning-streak-into-2015/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-DCMagnates.png" alt="logo-DCMagnates.png" /></a>
     </div>
     <div class="description">
       <a href="http://dcmagnates.com/nushares-lone-bright-spot-in-sea-of-red-continue-winning-streak-into-2015/" target="_blank"><h2>NuShares - Lone Bright Spot in Sea of Red, Continue Winning Streak into 2015</h2></a>
@@ -84,7 +84,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="https://letstalkbitcoin.com/blog/post/beyond-bitcoin-24-the-second-to-last-a-nu-approach" target="_blank"><img src="{{ site.url }}/assets/beyond-bitcoin-logo.jpg.png" alt="beyond-bitcoin-logo.jpg.png" /></a>
+      <a href="https://letstalkbitcoin.com/blog/post/beyond-bitcoin-24-the-second-to-last-a-nu-approach" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/beyond-bitcoin-logo.jpg.png" alt="beyond-bitcoin-logo.jpg.png" /></a>
     </div>
     <div class="description">
       <a href="https://letstalkbitcoin.com/blog/post/beyond-bitcoin-24-the-second-to-last-a-nu-approach" target="_blank"><h2>Beyond Bitcoin - A Nu Approach</h2></a>
@@ -95,7 +95,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://newsbtc.com/2014/12/28/excoin-starts-rolling-nubits-usd-trading-pairs/" target="_blank"><img src="{{ site.url }}/assets/Logo-NewsBTC-400x400.png" alt="Logo-NewsBTC-400x400.png" /></a>
+      <a href="http://newsbtc.com/2014/12/28/excoin-starts-rolling-nubits-usd-trading-pairs/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/Logo-NewsBTC-400x400.png" alt="Logo-NewsBTC-400x400.png" /></a>
     </div>
     <div class="description">
       <a href="http://newsbtc.com/2014/12/28/excoin-starts-rolling-nubits-usd-trading-pairs/" target="_blank"><h2>Excoin Starts Rolling Out NuBits (USD) Trading Pairs</h2></a>
@@ -106,7 +106,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="https://discuss.nubits.com/t/opening-for-senior-qa-developer/802/7" target="_blank"><img src="{{ site.url }}/assets/nu-logo-500.png" alt="nu-logo-500.png" /></a>
+      <a href="https://discuss.nubits.com/t/opening-for-senior-qa-developer/802/7" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/nu-logo-500.png" alt="nu-logo-500.png" /></a>
     </div>
     <div class="description">
       <a href="https://discuss.nubits.com/t/opening-for-senior-qa-developer/802/7" target="_blank"><h2>Giannis Dzegoutanis hired as Senior Core Developer for the Nu project. Welcome Giannis!</h2></a>
@@ -117,7 +117,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.cryptoarticles.com/crypto-news/nushares-the-digital-asset-for-the-cryptocurrency-speculator" target="_blank"><img src="{{ site.url }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
+      <a href="http://www.cryptoarticles.com/crypto-news/nushares-the-digital-asset-for-the-cryptocurrency-speculator" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.cryptoarticles.com/crypto-news/nushares-the-digital-asset-for-the-cryptocurrency-speculator" target="_blank"><h2>NuShares - The Digital Asset For The Cryptocurrency Speculator</h2></a>
@@ -128,7 +128,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.cryptoarticles.com/crypto-news/nubits-the-worlds-first-stable-digital-currency" target="_blank"><img src="{{ site.url }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
+      <a href="http://www.cryptoarticles.com/crypto-news/nubits-the-worlds-first-stable-digital-currency" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-CryptoArticles-275.png" alt="logo-CryptoArticles-275.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.cryptoarticles.com/crypto-news/nubits-the-worlds-first-stable-digital-currency" target="_blank"><h2>NuBits - The World's First Stable Digital Currency</h2></a>
@@ -139,7 +139,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.einpresswire.com/article/239085275/welcome-to-a-nu-world-of-stable-digital-currency" target="_blank"><img src="{{ site.url }}/assets/Ein_0.PNG" alt="Ein_0.PNG" /></a>
+      <a href="http://www.einpresswire.com/article/239085275/welcome-to-a-nu-world-of-stable-digital-currency" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/Ein_0.PNG" alt="Ein_0.PNG" /></a>
     </div>
     <div class="description">
       <a href="http://www.einpresswire.com/article/239085275/welcome-to-a-nu-world-of-stable-digital-currency" target="_blank"><h2>Welcome to a Nu world of stable digital currency</h2></a>
@@ -150,7 +150,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="https://coinreport.net/company-profile-bitspark/" target="_blank"><img src="{{ site.url }}/assets/logo-CoinReport.png" alt="logo-CoinReport.png" /></a>
+      <a href="https://coinreport.net/company-profile-bitspark/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-CoinReport.png" alt="logo-CoinReport.png" /></a>
     </div>
     <div class="description">
       <a href="https://coinreport.net/company-profile-bitspark/" target="_blank"><h2>Company Profile: Bitspark</h2></a>
@@ -161,7 +161,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.coinssource.com/crypto-coins/nubits/" target="_blank"><img src="{{ site.url }}/assets/09202014-logoCoinsSource-300x300.png" alt="09202014-logoCoinsSource-300x300.png" /></a>
+      <a href="http://www.coinssource.com/crypto-coins/nubits/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/09202014-logoCoinsSource-300x300.png" alt="09202014-logoCoinsSource-300x300.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.coinssource.com/crypto-coins/nubits/" target="_blank"><h2>Coins Source Review of NuBits</h2></a>
@@ -172,7 +172,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="https://www.cryptocoinsnews.com/nubits-market-cap-holding-steady-first-week/" target="_blank"><img src="{{ site.url }}/assets/10012014-CryptoCoinsNews.png" alt="10012014-CryptoCoinsNews.png" /></a>
+      <a href="https://www.cryptocoinsnews.com/nubits-market-cap-holding-steady-first-week/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/10012014-CryptoCoinsNews.png" alt="10012014-CryptoCoinsNews.png" /></a>
     </div>
     <div class="description">
       <a href="https://www.cryptocoinsnews.com/nubits-market-cap-holding-steady-first-week/" target="_blank"><h2>NuBits Market Cap Holding Steady During First Week</h2></a>
@@ -183,7 +183,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://cointelegraph.com/news/112630/if-we-cant-use-paypal-100-what-is-the-purpose-then-ronny-boesing-ceo-ccedk" target="_blank"><img src="{{ site.url }}/assets/2014-10-06-CoinTelegraph_0.png" alt="2014-10-06-CoinTelegraph_0.png" /></a>
+      <a href="http://cointelegraph.com/news/112630/if-we-cant-use-paypal-100-what-is-the-purpose-then-ronny-boesing-ceo-ccedk" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/2014-10-06-CoinTelegraph_0.png" alt="2014-10-06-CoinTelegraph_0.png" /></a>
     </div>
     <div class="description">
       <a href="http://cointelegraph.com/news/112630/if-we-cant-use-paypal-100-what-is-the-purpose-then-ronny-boesing-ceo-ccedk" target="_blank"><h2>If We Can’t Use PayPal 100%, What Is the Purpose Then?” – Ronny Boesing, CEO CCEDK</h2></a>
@@ -194,7 +194,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.cryptocoinnoisseur.com/article/nubits-scene" target="_blank"><img src="{{ site.url }}/assets/09282014-CryptoCoinnasseur.png" alt="09282014-CryptoCoinnasseur.png" /></a>
+      <a href="http://www.cryptocoinnoisseur.com/article/nubits-scene" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/09282014-CryptoCoinnasseur.png" alt="09282014-CryptoCoinnasseur.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.cryptocoinnoisseur.com/article/nubits-scene" target="_blank"><h2>NuBits is On The Scene</h2></a>
@@ -205,7 +205,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="https://www.cryptocoinsnews.com/nubits-seeks-to-end-cryptocurrency-volatility-with-usd-peg/?utm_source=dlvr.it&utm_medium=twitter" target="_blank"><img src="{{ site.url }}/assets/09252014Cryptpcoinsnews.png" alt="09252014Cryptpcoinsnews.png" /></a>
+      <a href="https://www.cryptocoinsnews.com/nubits-seeks-to-end-cryptocurrency-volatility-with-usd-peg/?utm_source=dlvr.it&utm_medium=twitter" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/09252014Cryptpcoinsnews.png" alt="09252014Cryptpcoinsnews.png" /></a>
     </div>
     <div class="description">
       <a href="https://www.cryptocoinsnews.com/nubits-seeks-to-end-cryptocurrency-volatility-with-usd-peg/?utm_source=dlvr.it&utm_medium=twitter" target="_blank"><h2>NuBits Seeks to End Cryptocurrency Volatility with USD Peg</h2></a>
@@ -216,7 +216,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.coinssource.com/jordan-lee-reveals-nubits-and-nushares/" target="_blank"><img src="{{ site.url }}/assets/09202014-logoCoinsSource-300x300.png" alt="09202014-logoCoinsSource-300x300.png" /></a>
+      <a href="http://www.coinssource.com/jordan-lee-reveals-nubits-and-nushares/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/09202014-logoCoinsSource-300x300.png" alt="09202014-logoCoinsSource-300x300.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.coinssource.com/jordan-lee-reveals-nubits-and-nushares/" target="_blank"><h2>Jordan Lee Reveals NuBits and NuShares</h2></a>
@@ -227,7 +227,7 @@ permalink: /news
   
  <div class="article">
     <div class="img">
-      <a href="http://thecoinfront.com/an-interview-with-nubits-head-developer-jordan-lee" target="_blank"><img src="{{ site.url }}/assets/09232014-CoinFront.png" alt="09232014-CoinFront.png" /></a>
+      <a href="http://thecoinfront.com/an-interview-with-nubits-head-developer-jordan-lee" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/09232014-CoinFront.png" alt="09232014-CoinFront.png" /></a>
     </div>
     <div class="description">
       <a href="http://thecoinfront.com/an-interview-with-nubits-head-developer-jordan-lee" target="_blank"><h2>Interview with Jordan Lee</h2></a>
@@ -238,7 +238,7 @@ permalink: /news
 
  <div class="article">
     <div class="img">
-      <a href="http://www.coinssource.com/nubits-revealed-three-days/" target="_blank"><img src="{{ site.url }}/assets/09202014-logoCoinsSource-300x300.png" alt="09202014-logoCoinsSource-300x300.png" /></a>
+      <a href="http://www.coinssource.com/nubits-revealed-three-days/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/09202014-logoCoinsSource-300x300.png" alt="09202014-logoCoinsSource-300x300.png" /></a>
     </div>
     <div class="description">
       <a href="http://www.coinssource.com/nubits-revealed-three-days/" target="_blank"><h2>NuBits Revealed in Three Days</h2></a>
@@ -249,7 +249,7 @@ permalink: /news
 
   <div class="article">
     <div class="img">
-      <a href="http://www.forexminute.com/bitcoin/peercoin-price-rockets-ahead-nubits-release-44617" target="_blank"><img src="{{ site.url }}/assets/3-300x300.jpg" /></a>
+      <a href="http://www.forexminute.com/bitcoin/peercoin-price-rockets-ahead-nubits-release-44617" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/3-300x300.jpg" /></a>
     </div>
     <div class="description">
       <a href="http://www.forexminute.com/bitcoin/peercoin-price-rockets-ahead-nubits-release-44617" target="_blank"><h2>Peercoin Price Rockets Up Ahead Of NuBits Release</h2></a>
@@ -260,7 +260,7 @@ permalink: /news
 
   <div class="article">
     <div class="img">
-      <a href="http://thecoinfront.com/nubits-launches-website-releases-more-details-on-the-project/"><img src="{{ site.url }}/assets/02072014-CoinFront.png" alt="02072014-CoinFront.png" /></a>
+      <a href="http://thecoinfront.com/nubits-launches-website-releases-more-details-on-the-project/"><img src="{{ site.url }}{{ site.baseurl }}/assets/02072014-CoinFront.png" alt="02072014-CoinFront.png" /></a>
     </div>
     <div class="description">
       <a href="http://thecoinfront.com/nubits-launches-website-releases-more-details-on-the-project/"><h2>NuBits Launches Website, Releases More Details On The Project</h2></a>
@@ -271,7 +271,7 @@ permalink: /news
 
   <div class="article">
     <div class="img">
-      <a href="http://thecoinfront.com/the-most-important-development-in-the-cryptoasset-space-since-bitcoin/"><img src="{{ site.url }}/assets/05062014-CoinFront_0.png"  alt="05062014-CoinFront_0.png" /></a>
+      <a href="http://thecoinfront.com/the-most-important-development-in-the-cryptoasset-space-since-bitcoin/"><img src="{{ site.url }}{{ site.baseurl }}/assets/05062014-CoinFront_0.png"  alt="05062014-CoinFront_0.png" /></a>
     </div>
     <div class="description">
       <a href="http://thecoinfront.com/the-most-important-development-in-the-cryptoasset-space-since-bitcoin/"><h2>“The Most Important Development In The Cryptoasset Space Since Bitcoin”?</h2></a>

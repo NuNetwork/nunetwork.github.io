@@ -5,7 +5,7 @@ title: Introduction
 permalink: /nushares/introduction
 menu: NuShares
 ---
-<center><img src="{{ site.url }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
 
 #### Where can I get NuShares?
 

@@ -5,7 +5,7 @@ title: Voting Mechanics
 permalink: /nushares/voting-mechanics
 menu: NuShares
 ---
-<center><img src="{{ site.url }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
 
 [**How does a Custodian vote work?**](#how-does-a-custodian-vote-work)  
 [**How does a Park Rate vote work?**](#how-does-a-park-rate-vote-work)  
