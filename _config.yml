@@ -9,7 +9,7 @@
 title: NuBits
 email: ryan@skycatchfire.com
 description: "The World's First Stable Digital Currency"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "NuBits.com" # the subpath of your site, e.g. /blog
 url: "http://nunetwork.github.io/NuBits.com/" # the base hostname & protocol for your site
 
 # Build settings
