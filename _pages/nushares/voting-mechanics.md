@@ -76,6 +76,6 @@ Let's take a look at how a custodian would distribute dividends to NuShareholder
 
 #### Where can I find more information?
 
-For further explanation of the concepts behind NuShares and its voting mechanisms, please read the [white paper](/about/white-paper) and [process map](/about/process-map).
+For further explanation of the concepts behind NuShares and its voting mechanisms, please read the [white paper]({{ site.baseurl }}/about/white-paper) and [process map]({{ site.baseurl }}/about/process-map).
 
 Visit our [forum](http://discuss.nubits.com) to ask questions and discuss ideas about NuShares.

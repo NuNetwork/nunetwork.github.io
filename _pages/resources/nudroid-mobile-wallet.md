@@ -70,7 +70,7 @@ NuDroid has nothing to hide and we are happy to share. We hope you may even cont
 
 **NuDroid Documentation & Specifications:** [https://docs.nubits.com/nudroid/](https://docs.nubits.com/nudroid/)
 
-Still have questions? [Visit our comprehensive FAQ page that includes answers to many common NuDroid questions.](/about/faqs)
+Still have questions? [Visit our comprehensive FAQ page that includes answers to many common NuDroid questions.]({{ site.baseurl }}/about/faqs)
 
 <div class="hero-actions">
   <center><a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.matthewmitchell.nubits_android_wallet&hl=en">Download Your Free NuDroid Wallet</a></center>
