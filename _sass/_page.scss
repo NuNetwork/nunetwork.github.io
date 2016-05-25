@@ -277,6 +277,7 @@ header {
     padding: 20px;
     border: 1px solid darken(#eee, 20%);
     height: 250px;
+    margin-bottom: 40px;
     img {
       max-width: 100%;
     }
@@ -304,6 +305,7 @@ header {
       @include make-md-column(10);
       h2 {
         margin: 5px auto 10px;
+        color: #0074A0;
       }
       h3 {
         font-size: 1.8rem;
