@@ -6,7 +6,7 @@ menu: Download
 ---
 <div class="download-wallet">
   <div class="logo">
-    <img src="/assets/img/global/logo-nu.png">
+    <img src="{{ site.url }}/assets/img/global/logo-nu.png">
   </div>
   <div class="details">
     <h2>Instructions</h2>

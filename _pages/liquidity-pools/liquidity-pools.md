@@ -9,7 +9,7 @@ menu: Liquidity Pools
 
   <div class="article">
     <div class="img">
-      <img src="/assets/Logo-NuPool.png" alt="Logo-NuPool.png" />
+      <img src="{{ site.url }}/assets/Logo-NuPool.png" alt="Logo-NuPool.png" />
     </div>
     <div class="description">
       <a href="https://nupool.net" target="_blank"><h2>NuPool</h2></a>
@@ -20,7 +20,7 @@ menu: Liquidity Pools
 
   <div class="article">
     <div class="img">
-      <img src="/assets/logo-NuPond.png" alt="logo-NuPond.png" />
+      <img src="{{ site.url }}/assets/logo-NuPond.png" alt="logo-NuPond.png" />
     </div>
     <div class="description">
       <a href="http://nupond.net" target="_blank"><h2>NuPond</h2></a>
@@ -31,7 +31,7 @@ menu: Liquidity Pools
 
   <div class="article">
     <div class="img">
-      <img src="/assets/NuLagoonPool.png" alt="Logo-NuLagoon.jpg" />
+      <img src="{{ site.url }}/assets/NuLagoonPool.png" alt="Logo-NuLagoon.jpg" />
     </div>
     <div class="description">
       <a href="http://nulagoon.com" target="_blank"><h2>NuLagoon Pool A, C, D</h2></a>
@@ -42,7 +42,7 @@ menu: Liquidity Pools
 
   <div class="article">
     <div class="img">
-      <img src="/assets/Logo-LiquidBits.jpg" alt="Logo-LiquidBits.jpg" />
+      <img src="{{ site.url }}/assets/Logo-LiquidBits.jpg" alt="Logo-LiquidBits.jpg" />
     </div>
     <div class="description">
       <a href="http://cybnate.github.io/index-liquidbits.html" target="_blank"><h2>LiquidBits</h2></a>

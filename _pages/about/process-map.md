@@ -9,7 +9,7 @@ If reading [the white paper](/about/white-paper) seems overwhelming, this proces
 
 Click the image to expand.
 
-[![nu-process-map-v0.3.png](/assets/nu-process-map-v0.3.png)](/assets/nu-process-map-v0.3.png)
+[![nu-process-map-v0.3.png]({{ site.url }}/assets/nu-process-map-v0.3.png)]({{ site.url }}/assets/nu-process-map-v0.3.png)
 
 Several recent improvements to the Nu network - including variable transaction fees and NuShare custodial grants - are not represented in the above diagram.
 

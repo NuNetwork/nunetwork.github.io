@@ -7,7 +7,7 @@ menu: Resources
 ---
 <h2><b><center>Introducing the NuDroid Mobile Wallet</center></b></h2>
 
-<center><img src="/assets/Image-NuDroid.png" width="195" height="145" alt="Image-NuDroid.png" /></center>
+<center><img src="{{ site.url }}/assets/Image-NuDroid.png" width="195" height="145" alt="Image-NuDroid.png" /></center>
 
 <h4><p><center>The world's first mobile digital currency wallet that can pay for<br>
 goods and services with a stable digital currency: NuBits!</center></p></h4>
@@ -44,7 +44,7 @@ Choose this video **if you are new to cryptocurrency mobile wallets**. In this v
 
 Use your stable NuBits to pay directly to a merchant’s Bitcoin, Litecoin, Dogecoins and other altcoins’ addresses. It is very easy to use. NuDroid clearly shows you and the receiver how much you are paying both in NuBits and any other digital or real-world currency. It allows merchants to trust that the value they are receiving is accurate. NuDroid can scan QR codes from all supported coins including Bitcoin. Paying with any digital currency has never been this convenient!
 
-![Screenshot_2015-05-05 Shapeshift NBT-BTC_0.png](/assets/Screenshot_2015-05-05%20Shapeshift%20NBT-BTC_0.png)  
+![Screenshot_2015-05-05 Shapeshift NBT-BTC_0.png]({{ site.url }}/assets/Screenshot_2015-05-05%20Shapeshift%20NBT-BTC_0.png)  
 
 **NuDroid is Secure and Fast**
 
@@ -62,7 +62,7 @@ We'll keep it simple: NuDroid is free to use. You don’t need to register for a
 
 NuDroid can be run on all Android devices including tablets, supporting 4.x and higher. It can export your transactions to a comma delimited file for personal record-keeping. This record-keeping is made even easier because NuDroid keeps the coin addresses of all supported coins in its address book. It is easy to add a description to these addresses so you can remember what you paid for.
 
-![Screenshot_2015-05-25 csv output_0.png](/assets/Screenshot_2015-05-25%20csv%20output_0.png)  
+![Screenshot_2015-05-25 csv output_0.png]({{ site.url }}/assets/Screenshot_2015-05-25%20csv%20output_0.png)  
 
 **NuDroid is Open Source**
 

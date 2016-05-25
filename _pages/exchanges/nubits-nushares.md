@@ -7,23 +7,23 @@ menu: Exchanges
 ---
 <div class="exchanges">
 	<a class="exchange" href="https://poloniex.com/exchange#btc_nsr" target="_blank">
-	  <img src="/assets/logo-poloniex-400.png" alt="logo-poloniex-400.png" />
+	  <img src="{{ site.url }}/assets/logo-poloniex-400.png" alt="logo-poloniex-400.png" />
 	  <h2>Poloniex</h2>
 	</a>
 	<a class="exchange" href="https://bter.com/trade/nsr_btc" target="_blank">
-	  <img src="/assets/logo-BTER-400.png" alt="logo-BTER-400.png" />
+	  <img src="{{ site.url }}/assets/logo-BTER-400.png" alt="logo-BTER-400.png" />
 	  <h2>BTER</h2>
 	</a>
 	<a class="exchange" href="https://bcexchange.org" target="_blank">
-	 <img src="/assets/logo-BCExchange.png" alt="logo-BCExchange.png" />
+	 <img src="{{ site.url }}/assets/logo-BCExchange.png" alt="logo-BCExchange.png" />
 	  <h2>B&C Exchange</h2>
 	</a>
 	<a class="exchange" href="https://alts.trade/trade/NSR/BTC" target="_blank">
-	  <img src="/assets/logo-AltsTrade-145_0.png" alt="logo-AltsTrade-145_0.png" />
+	  <img src="{{ site.url }}/assets/logo-AltsTrade-145_0.png" alt="logo-AltsTrade-145_0.png" />
 	  <h2>Alts.Trade</h2>
 	</a>
 	<a class="exchange" href="https://ccedk.com" target="_blank">
-	 <img src="/assets/CCEDK%20logo1-Website_0.png" alt="CCEDK logo1-Website_0.png" />
+	 <img src="{{ site.url }}/assets/CCEDK%20logo1-Website_0.png" alt="CCEDK logo1-Website_0.png" />
 	  <h2>CCEDK</h2>
 	</a>
 </div>
