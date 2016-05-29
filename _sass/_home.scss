@@ -56,6 +56,9 @@ header {
       font-weight: 300;
       width: 75%;
       margin: 0 auto;
+      &:first-child {
+        color: #FFD04D;
+      }
     }
     .caption {
       @include opacity(0);

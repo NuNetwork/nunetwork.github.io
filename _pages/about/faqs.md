@@ -76,7 +76,7 @@ There are many significant advantages depending on how NuBits are used.
 
 #### Where can NuBits be purchased?
 
-A full list of current NuBits and NuShares exchanges can be found on our [Exchange listings page.](/exchanges)
+A full list of current NuBits and NuShares exchanges can be found on our [Exchange listings page.]({{ site.baseurl }}/exchanges)
 
 #### How secure are NuBits?
 
@@ -96,7 +96,7 @@ Yes, of course. All other digital currencies, including Bitcoin, can become wort
 
 #### There are other digital currencies that are claiming to be worth $1.00 US. Which is the best?
 
-When choosing to use a product, lots of factors come into play. Some users make their decisions based on branding and marketing, and others decide based on the strength of a community. For those users who care purely about stability, NuBits is the best option. NuBits has maintained its peg at $1.00 US since its release. The Nu network's introduction of [independent decentralized liquidity pools](/liquidity-pools) has also ensured that a large amount of liquidity is available for users to redeem a NBT for $1.00 US.
+When choosing to use a product, lots of factors come into play. Some users make their decisions based on branding and marketing, and others decide based on the strength of a community. For those users who care purely about stability, NuBits is the best option. NuBits has maintained its peg at $1.00 US since its release. The Nu network's introduction of [independent decentralized liquidity pools]({{ site.baseurl }}/liquidity-pools) has also ensured that a large amount of liquidity is available for users to redeem a NBT for $1.00 US.
 
 #### How popular are NuBits?
 
@@ -116,7 +116,7 @@ NuBits has been stable over all timeframes since its release. Coinmarketcap is o
 
 Here's an example:
 
-If a trade just happened on an [exchange](/exchanges), and 100 NBT were traded for $100.02 worth of BTC (at a price of $370.00/BTC), you'd expect to see "$1.002/NBT" as the price. If the price of BTC updates to $365.00, Coinmarketcap will update all other crypto prices (that came from X/BTC pairs) relative to that price change.
+If a trade just happened on an [exchange]({{ site.baseurl }}/exchanges), and 100 NBT were traded for $100.02 worth of BTC (at a price of $370.00/BTC), you'd expect to see "$1.002/NBT" as the price. If the price of BTC updates to $365.00, Coinmarketcap will update all other crypto prices (that came from X/BTC pairs) relative to that price change.
 
 NuBot will have reset the walls to take into account the new pricing, so when the next trade happens, the new price will be reflected. Until then, you will see the price for NBT on CMC listed as $0.988459.
 
@@ -130,7 +130,7 @@ Finally, it should be noted that at some point in the near future only NBT/USD t
 
 There are two ways NuBits are created.
 
-First, when individuals who possess [NuShares](/nushares/introduction) reach a consensus to grant NuBits to a custodian. A custodian is a person/entity (or persons/entities if multisignature transactions are used) that pledges to use the NuBits in a particular way, such as raising funds for dividend distributions or funding development. Voting occurs among all NuShareholders, and if a custodial grant is successful the NuBits are transferred to a specified address.
+First, when individuals who possess [NuShares]({{ site.baseurl }}/nushares/introduction) reach a consensus to grant NuBits to a custodian. A custodian is a person/entity (or persons/entities if multisignature transactions are used) that pledges to use the NuBits in a particular way, such as raising funds for dividend distributions or funding development. Voting occurs among all NuShareholders, and if a custodial grant is successful the NuBits are transferred to a specified address.
 
 Second, when a NuBits user chooses to “park” their NuBits for a set duration in exchange for an interest rate offered by NuShareholders. At the conclusion of the parking period, new NuBits are generated to pay out the interest owed.
 
@@ -142,7 +142,7 @@ A [multi-tiered liquidity operations plan](https://discuss.nubits.com/t/finalize
 
 #### What happens if demand suddenly increases or decreases?
 
-Price stability is the core benefit of NuBits and is an important topic. Have a read through our dedicated [Price Stability](/about/price-stability) section for more detailed information.  
+Price stability is the core benefit of NuBits and is an important topic. Have a read through our dedicated [Price Stability]({{ site.baseurl }}/about/price-stability) section for more detailed information.  
 
 #### How is interest paid out to parked NuBits?
 
@@ -170,7 +170,7 @@ The first recorded use of a custodian burning NuBits (which definitively proved 
 
 #### How do NuShareholders determine who gets NuBits?
 
-Votes are done with the presumption that the first and foremost goal is maintaining the $1.00 US peg. NuShareholders are in the business of maintaining NuBits at $1.00, because they know a constant and stable digital currency delivers the most value to users. This will lead to the network being worth more in the long-term. [The white paper](/about/white-paper) can give you more insight into how custodians are voted for.
+Votes are done with the presumption that the first and foremost goal is maintaining the $1.00 US peg. NuShareholders are in the business of maintaining NuBits at $1.00, because they know a constant and stable digital currency delivers the most value to users. This will lead to the network being worth more in the long-term. [The white paper]({{ site.baseurl }}/about/white-paper) can give you more insight into how custodians are voted for.
 
 #### Why is there a 10,000 NuShare minimum to vote on the network?
 
@@ -227,7 +227,7 @@ NuDroid is tested and works with Android version 4.03 and up. Older versions may
 
 #### Can I receive Bitcoins in my wallet?
 
-That functionality is not available. We might add this functionality later if there is enough demand for it. For now, you can use [Shapeshift](https://Shapeshift.io) or the [Coinomi Android wallet](/download). Take care to ensure you don’t exceed the maximum amount for this transaction. Provide the Bitcoin address to the sender and use the NBT address of your NuDroid wallet (the one on the QR code on the homepage of NuDroid). Once the BTC are received they will be Shapeshifted to your NuDroid wallet. Depending on the confirmation times this sometimes takes a while. You can also ask someone to pay in NBT directly, which will be very fast and with only 0.01 NBT transaction cost.
+That functionality is not available. We might add this functionality later if there is enough demand for it. For now, you can use [Shapeshift](https://Shapeshift.io) or the [Coinomi Android wallet]({{ site.baseurl }}/download). Take care to ensure you don’t exceed the maximum amount for this transaction. Provide the Bitcoin address to the sender and use the NBT address of your NuDroid wallet (the one on the QR code on the homepage of NuDroid). Once the BTC are received they will be Shapeshifted to your NuDroid wallet. Depending on the confirmation times this sometimes takes a while. You can also ask someone to pay in NBT directly, which will be very fast and with only 0.01 NBT transaction cost.
 
 #### Can I scan Bitcoin, Peercoin or other altcoin QR codes?
 

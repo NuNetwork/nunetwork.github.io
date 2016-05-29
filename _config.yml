@@ -7,10 +7,10 @@
 
 # Site settings
 title: NuBits
-email: matt@skycatchfire.com
+email: ryan@skycatchfire.com
 description: "The World's First Stable Digital Currency"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hardcore-dev.github.io" # the base hostname & protocol for your site
+baseurl: "/NuBits.com" # the subpath of your site, e.g. /blog
+url: "http://nunetwork.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

@@ -5,7 +5,7 @@ title: Introduction
 permalink: /nushares/introduction
 menu: NuShares
 ---
-<center><img src="/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
 
 #### Where can I get NuShares?
 
@@ -31,4 +31,4 @@ A minimum of 10,000 NuShares are required to submit votes on the network. This l
 
 There are several actions NuShareholders can vote on. The actions to vote on are Custodian votes, Park Rate votes, Motion votes and Transaction Fees. NuShareholders will be able to vote on these different network actions when a block is minted. By setting their vote in the client it will be recorded into the blockchain each time they mint a block. The purposes of these categories of votes are to select custodians to maintain the network, choose interest rates for parking, make decisions on the development of the network, and determine how much using NuBits should cost a user.  
 
-Find out more about how each of these [voting mechanics](/nushares/voting-mechanics) work.
+Find out more about how each of these [voting mechanics]({{ site.baseurl }}/nushares/voting-mechanics) work.

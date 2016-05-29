@@ -5,7 +5,7 @@ title: Overview
 permalink: /about/overview
 menu: About
 ---
-<center><img src="/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center>
 
 #### Project Overview
 

@@ -8,7 +8,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/"><img src="/assets/img/global/site-logo.png"></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/global/site-logo.png"></a>
       </div>
       <div class="collapse navbar-collapse navbar-nav navbar-right" id="navbar-primary-collapse">
         <ul class="nav">
@@ -29,7 +29,7 @@
                 {% for pc in page.menu %}
                   {% if pc == menu-item %}
                     {% if parent_class == 'last' %}    
-                      <a href="{{ page.url }}">{{ page.title }}</a>
+                      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
                     {% else %}
                       {% if has_dropdown == false %}
                         {% assign has_dropdown = true %}
@@ -39,7 +39,7 @@
                       {% if page.externallink %}
                         <li><a href="{{ page.externallink }}" target="_blank">{{ page.title }}</a></li>
                       {% else %}
-                        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                        <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
                       {% endif %}
                     {% endif %}
                   {% endif %}

@@ -9,8 +9,8 @@ menu: Connect
 
 <div class="social-networks-block">
   <ul>
-    <li><a href="http://reddit.com/r/NuBits"><img src="/assets/img/global/icon-reddit.png"><span>Reddit</span></a></li>
-    <li><a href="http://twitter.com/OfficialNuBits"><img src="/assets/img/global/icon-twitter.png"><span>Twitter</span></a></li>
-    <li><a href="http://facebook.com/OfficialNuBits"><img src="/assets/img/global/icon-facebook.png"><span>Facebook</span></a></li>
+    <li><a href="http://reddit.com/r/NuBits"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/global/icon-reddit.png"><span>Reddit</span></a></li>
+    <li><a href="http://twitter.com/OfficialNuBits"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/global/icon-twitter.png"><span>Twitter</span></a></li>
+    <li><a href="http://facebook.com/OfficialNuBits"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/global/icon-facebook.png"><span>Facebook</span></a></li>
   </ul>
 </div>
