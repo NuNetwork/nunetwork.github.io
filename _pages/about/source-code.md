@@ -7,7 +7,7 @@ menu: About
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center><br>
 
-Delve deeper into the mechanics behind NuBits and [NuShares]({{ site.baseurl }}/NuShares/introduction) by checking out the Nu source code.
+Delve deeper into the mechanics behind NuBits and [NuShares]({{ site.baseurl }}/NuShares/introduction) by checking out the source code.
 
 We look forward to seeing new innovation and development from our community members!
 
