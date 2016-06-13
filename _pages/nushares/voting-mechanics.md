@@ -26,9 +26,6 @@ Second, the vote must also have more than 50% of share age destroyed from mintin
 
 Once a vote passes on a custodian's NuBits address the granted NuBits are immediately available for the custodian to use.
 
-Here is a tutorial video showing how to vote for a custodian:
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/VLHjo8VvxD0" frameborder="0" allowfullscreen></iframe>
 
 #### How does a Park Rate vote work?
 
@@ -44,19 +41,12 @@ Rates can be increased approximately 3% per day (0.002% per block), and can be d
 
 Share days are accrued by shares if they are undisturbed (not sent or staked) after becoming a verified transaction. After seven days, shares are fully matured (usable for minting). Holding shares beyond this date has no impact on the difficulty of minting a block. This creates an incentive for NuShareholders to mint as soon as possible. The client splits transfers up into outputs of 10,000 each as a way to optimize and equalize voting opportunities. This is also why NuShare transaction fees are higher than 1 when transferring large amounts.
 
-Here is a tutorial video showing how to vote for park rates:
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/5JNjkqCHCPY" frameborder="0" allowfullscreen></iframe>
-
 #### How does a Motion vote work?
 
 Shareholders can vote on motions which are used to gauge the will of shareholders on a topic. Motions have no direct impact on the network, meaning shareholders, custodians, or developers need to manually carry out the voted upon topic. Like custodian votes, motions votes require more than 50% of blocks and share age destroyed by minting, within a rolling 10,000 block window in order to pass.
 
 An example motion might be “Change the Nu logo to a picture of a teacup pig”. The responsibility would fall on a Nu developer to carry out that action if the network voted in agreement.
 
-Here is a tutorial video showing how to vote for a motion:
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/NDiDwaqYsbk" frameborder="0" allowfullscreen></iframe>
 
 #### How does a Transaction Fee vote work?
 
@@ -70,9 +60,6 @@ Data Feeds allow NuShareholders to automatically update their client with decisi
 
 We require an asset external to our system to distribute dividends. The purpose of creating NuBits is primarily to meet increased demand for NuBits in a way that prevents the rise of the NuBit price. If we distributed NuBits to shareholders instead of bringing them directly to market, there would be no way of knowing whether shareholders would hold them or sell them, or for how long they would hold them. It wouldn't permit the network to tightly control the supply of available NuBits, which is necessary to maintain the pegged price.
 
-Let's take a look at how a custodian would distribute dividends to NuShareholders:
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/MSVqMjAoYBg" frameborder="0" allowfullscreen></iframe>
 
 #### Where can I find more information?
 
