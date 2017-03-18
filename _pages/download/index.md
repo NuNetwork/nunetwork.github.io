@@ -14,9 +14,9 @@ menu: Download
     <p>If you have any questions about upgrading to this version, or if you run into delays upgrading and need assistance to re-synchronize your Nu client, please visit <a href="https://discuss.nubits.com">discuss.nubits.com</a> for support.</p>
     <br><br>
     <div class="download-options">
-      <a href="https://bitbucket.org/JordanLeePeershares/nubit/downloads/nu-3.0.1-win-gitian.zip" class="windows"><span>Windows v3.0.1</span></a>
-      <a href="https://bitbucket.org/JordanLeePeershares/nubit/downloads/nu-3.0.1-linux-gitian.zip" class="linux"><span>Linux v3.0.1</span></a>
-      <a href="https://bitbucket.org/JordanLeePeershares/nubit/downloads/Nu-Qt-3.0.1.dmg" class="mac"><span>Mac OS X v3.0.1</span></a><br><br>
+      <a href="https://bitbucket.org/JordanLeePeershares/nubit/downloads/nu-4.0.0-win-gitian.zip" class="windows"><span>Windows v4.0.0</span></a>
+      <a href="https://bitbucket.org/JordanLeePeershares/nubit/downloads/nu-4.0.0-linux-gitian.zip" class="linux"><span>Linux v4.0.0</span></a>
+      <a href="https://bitbucket.org/JordanLeePeershares/nubit/downloads/Nu-Qt-3.0.1.dmg" class="mac"><span>macOS v3.0.1</span></a><br><br>
        <a href="https://play.google.com/store/apps/details?id=com.matthewmitchell.nubits_android_wallet&hl=en" class="btn-large btn btn-info">NuDroid Mobile Wallet</a>
        <p><b>Description</b>: The official NuBits Android v3.0 wallet. This app allows you to send and receive NuBits on your Android device. It also allows you to spend NuBits anywhere that Bitcoin are accepted, using Shapeshift technology. This release features deterministic wallets (BIP0032) & HD wallets, the ability to encrypt your wallet with a PIN code, as well as various interface and performance enhancements. It also features improved peer recognition to enable faster synchronization and the ability to export transactions for personal record keeping. </p>
        <a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet" class="btn-large btn btn-info">Android (Coinomi version)</a>
