@@ -8,7 +8,7 @@
 # Site settings
 title: NuBits
 email: ryan@skycatchfire.com
-description: "The World's First Stable Digital Currency"
+description: "World's Best Stable Digital Currencies"
 url: "https://www.nubits.com" # with the https protocol
 baseurl: "" # the subpath of your site, e.g. /blog
 enforce_ssl: "www.nubits.com" # without any protocol
