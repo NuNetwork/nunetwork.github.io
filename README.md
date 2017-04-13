@@ -21,7 +21,7 @@ If you're having trouble, be sure that you are meeting all of the [requirements]
 
 ## Deployment
 
-The `master` branch is used for GitHub Pages.
+The website is hosted from the `master` branch.
 
 1. Create a pull request from `my-feature-branch` to `master`.
 2. Get another developer to review it.
