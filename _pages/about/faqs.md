@@ -78,7 +78,7 @@ A full list of current NuBits and NuShares exchanges can be found on our Exchang
 
 #### How secure are NuBits?
 
-We have been careful during development to alter the fundamentals of the Bitcoin code base as little as possible so that we inherit the robustness and reliability of the Bitcoin network. Nonetheless, Nu is a revolutionary network built without any precedent. Like all cryptocurrencies & blockchain projects Nu should be considered an innovation that's certainly not without risk but with endless potential. We as the crypto-currency community are currently participating in a groundbreaking lobal beta test! Accordingly, we advise on our [disclaimer page](https://www.nubits.com/disclaimer) that no one should entrust the network with any funds they cannot afford to lose or delay investment until the network is even further proven. We have rapidly improved our software/network over the last few years of experience & only expect the security and strength of the distrubuted network to continue to grow.
+We have been careful during development to alter the fundamentals of the Bitcoin code base as little as possible so that we inherit the robustness and reliability of the Bitcoin network. Nonetheless, Nu is a revolutionary network built without any precedent. Like all cryptocurrencies & blockchain projects Nu should be considered an innovation that's certainly not without risk but with endless potential. We as the crypto-currency community are currently participating in a groundbreaking global beta test! Accordingly, we advise on our [disclaimer page](https://www.nubits.com/disclaimer) that no one should entrust the network with any funds they cannot afford to lose or delay investment until the network is even further proven. We have rapidly improved our software/network over the last few years of experience & only expect the security and strength of the distrubuted network to continue to grow.
 
 #### Are NuBits pre-mined?
 
@@ -90,7 +90,7 @@ Yes! Peercoin is used to distribute dividends to NuShareholders. Many individual
 
 #### Could NuBits become worth nothing?
 
-Yes, of course. In reality all currencies, stocks, commodities & most investment options carry this risk. Even more-so digital currencies and most blockchain projects being different & new are inherently considered high-risk. Over time many digital currencies & perhaps even bitcoin could become value-less. However as crypto-currencies grow in global Market Share their utility & logevity alone will drastically reduce this risk.We could easily see a day where cryptocurrencies are the staple medium for transactions & transfers of value. 
+Yes, of course. In reality all currencies, stocks, commodities & most investment options carry this risk. Even more-so digital currencies and most blockchain projects being different & new are inherently considered high-risk. Over time many digital currencies & perhaps even bitcoin could become value-less. However as crypto-currencies grow in global Market Share their utility & logevity alone will drastically reduce this risk. We could easily see a day where cryptocurrencies are the staple medium for transactions & transfers of value. 
 
 #### There are other digital currencies that are claiming to be worth $1.00 US. Which is the best?
 
