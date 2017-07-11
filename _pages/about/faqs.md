@@ -56,11 +56,9 @@ menu: About
 
 #### Do I need to know all the information below to use NuBits?
 
-No, absolutely not. The following information is intended as a source of information for people who really, really like understanding cryptocurrency design. For everyone else the simple knowledge that one NuBit equals $1.00 US is all you really need to remember.
+No, absolutely not. The following information is intended as a source of information for people who really, really like understanding cryptocurrency design. For everyone what's most important is the simple knowledge that one NuBit equals $1.00 USD & the NuBit is protected by a decentralised network democratially controlled via NuShares NSR Shareholders. There's no single point of failure!
 
 #### What advantages do NuBits have over other payment methods and digital currencies?
-
-#### 
 
 There are many significant advantages depending on how NuBits are used.
 
@@ -76,15 +74,15 @@ There are many significant advantages depending on how NuBits are used.
 
 #### Where can NuBits be purchased?
 
-A full list of current NuBits and NuShares exchanges can be found on our [Exchange listings page.]({{ site.baseurl }}/exchanges)
+A full list of current NuBits and NuShares exchanges can be found on our Exchange listings pages. [NuBits (US-NBT)]({{ site.baseurl }}/exchanges/nubits-exchanges) & [NuShares (NSR)]({{ site.baseurl }}/exchanges/nushares-exchanges)
 
 #### How secure are NuBits?
 
-We have been careful during development to alter the fundamentals of the Bitcoin code base as little as possible so that we inherit the robustness and reliability of the Bitcoin network. Nonetheless, Nu is a new network without precedent and so should be considered beta, like crypto-technology as a whole. We advise on our [disclaimer page](https://nubits.com/Disclaimer) that no one should entrust the network with funds they cannot afford to lose until the network is proven. We expect the security and strength of the network to grow over time.
+We have been careful during development to alter the fundamentals of the Bitcoin code base as little as possible so that we inherit the robustness and reliability of the Bitcoin network. Nonetheless, Nu is a revolutionary network built without any precedent. Like all cryptocurrencies & blockchain projects Nu should be considered an innovation that's certainly not without risk but with endless potential. We as the crypto-currency community are currently participating in a groundbreaking global beta test! Accordingly, we advise on our [disclaimer page](https://www.nubits.com/disclaimer) that no one should entrust the network with any funds they cannot afford to lose or delay investment until the network is even further proven. We have rapidly improved our software/network over the last few years of experience & only expect the security and strength of the distrubuted network to continue to grow.
 
 #### Are NuBits pre-mined?
 
-No. The only way for new NuBits to be created is if NuShareholders vote to do so. The only NuBits in existence are those that a decentralized body of NuShareholders voted to create. It would be unlikely that a majority of NuShareholders would vote to distribute NuBits for selfish reasons, as it would threaten the integrity of the $1.00 US peg.
+No. The only way for new NuBits to be created is if NuShareholders vote to do so. The only NuBits in existence are those that a decentralized body of NuShareholders voted to create. It would be unlikely that a majority of NuShares shareholders would vote to distribute NuBits for irresponsible or selfish reasons, as this would threaten the $1.00 peg and value of their investement/holding. Remember NuShares shareholders are the most vested in the value & integrity of Nu Network & $1.00 USD NuBits peg.
 
 #### Does NuBits help Peercoin?
 
@@ -92,7 +90,7 @@ Yes! Peercoin is used to distribute dividends to NuShareholders. Many individual
 
 #### Could NuBits become worth nothing?
 
-Yes, of course. All other digital currencies, including Bitcoin, can become worth $0 overnight if users deem them to have no utility. NuBits are not unique in that regard.
+Yes, of course. In reality all currencies, stocks, commodities & most investment options carry this risk. Even more-so digital currencies and most blockchain projects being different & new are inherently considered high-risk. Over time many digital currencies & perhaps even bitcoin could become value-less. However as crypto-currencies grow in global Market Share their utility & logevity alone will drastically reduce this risk. We could easily see a day where cryptocurrencies are the staple medium for transactions & transfers of value. 
 
 #### There are other digital currencies that are claiming to be worth $1.00 US. Which is the best?
 
@@ -100,7 +98,7 @@ When choosing to use a product, lots of factors come into play. Some users make 
 
 #### How popular are NuBits?
 
-NuBits are a very new entry to the digital currency landscape. It was released on September 23, 2014\. Despite this, within the first month there were multiple days that NuBits achieved a top 5 rank in traded market volume on [CoinMarketCap](http://www.Coinmarketcap.com). The NuBits community is growing each and every day.
+NuBits are still considered a relative new solution for the digital currency community despite approaching our third year in operation. The NuNetwork launched on September 23, 2014 and within the first month NuBits achieved a top 5 rank in traded market volume on [CoinMarketCap](http://www.Coinmarketcap.com). We've since overcome many obstacles that would have broken most only further proving the strength of our distributed network. The best days are still to come!
 
 #### How is the price of NuBits determined on [Coinmarketcap.com?](http://coinmarketcap.com)
 
@@ -116,7 +114,7 @@ NuBits has been stable over all timeframes since its release. Coinmarketcap is o
 
 Here's an example:
 
-If a trade just happened on an [exchange]({{ site.baseurl }}/exchanges), and 100 NBT were traded for $100.02 worth of BTC (at a price of $370.00/BTC), you'd expect to see "$1.002/NBT" as the price. If the price of BTC updates to $365.00, Coinmarketcap will update all other crypto prices (that came from X/BTC pairs) relative to that price change.
+If a trade just happened on an [exchange]({{ site.baseurl }}/exchanges/nubits-exchanges), and 100 NBT were traded for $100.02 worth of BTC (at a price of $370.00/BTC), you'd expect to see "$1.002/NBT" as the price. If the price of BTC updates to $365.00, Coinmarketcap will update all other crypto prices (that came from X/BTC pairs) relative to that price change.
 
 NuBot will have reset the walls to take into account the new pricing, so when the next trade happens, the new price will be reflected. Until then, you will see the price for NBT on CMC listed as $0.988459.
 
@@ -227,11 +225,7 @@ NuDroid is tested and works with Android version 4.03 and up. Older versions may
 
 #### Can I receive Bitcoins in my wallet?
 
-That functionality is not available. We might add this functionality later if there is enough demand for it. For now, you can use [Shapeshift](https://Shapeshift.io) or the [Coinomi Android wallet]({{ site.baseurl }}/download). Take care to ensure you don’t exceed the maximum amount for this transaction. Provide the Bitcoin address to the sender and use the NBT address of your NuDroid wallet (the one on the QR code on the homepage of NuDroid). Once the BTC are received they will be Shapeshifted to your NuDroid wallet. Depending on the confirmation times this sometimes takes a while. You can also ask someone to pay in NBT directly, which will be very fast and with only 0.01 NBT transaction cost.
-
-#### Can I scan Bitcoin, Peercoin or other altcoin QR codes?
-
-Yes, you can. Select scan and show the QR code to the camera in the window with the red border. All the details will be auto-filled when available and you only have to enter your pin code to send the coins.
+That functionality is not currently available in the desktop wallet or NuDroid but is available with [Coinomi](https://play.google.com/store/apps/details?id=com.coinomi.wallet) . We will reimplement this functionality in the future using shapeshift or a similar conversion service.
 
 #### Can I store a Bitcoin, Peercoin or Dogecoin address in my address book?
 
@@ -281,7 +275,7 @@ Nu has no legally-recognized management, directors, or employees. It is a global
 
 #### Can I use the Nu logos for a product I'm making?
 
-Yes. Our NuBits, NuShares, and Nu logos are free to use for anyone who would like to create products or services. Want to create a t-shirt, coffee mug or phone case? No problem! Be sure to send us a link to your Nu product on discuss.nubits.com. Our only requirement is that no verbal or written representation is made that your product is officially endorsed by NuShareholders or Nu core team developers.
+Yes. Our NuBits, NuShares, and Nu logos are free to use under an open-source FLOSS license. Anyone who would like to can freely use our branding to create related products or intellectual property. Want to create a t-shirt, coffee mug or phone case? No problem! Just please be sure to send us a link to your Nu product on discuss.nubits.com. Then lastly, our only requirements are that you don't slander or attempt to harm the Nu community in any way and that you make no verbal or written representation that states or implies your product is in any way endorsed by the NuShares shareholders or Nu core development team.
 
 ### **Don't see your question answered here?**
 
