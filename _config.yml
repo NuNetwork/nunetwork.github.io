@@ -21,4 +21,4 @@ sass:
 
 include: ["_pages"]
 
-menu-list: ["About", "Exchanges", "Liquidity Pools", "Resources", "Connect", "NuShares", "Download"]
+menu-list: ["Learn", "Trade", "Status", "Download", "Discuss", "Resources"]
