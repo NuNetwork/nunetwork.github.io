@@ -1,9 +1,9 @@
 ---
 layout: page
 show_sidebar: true
-title: NuBits (US-NBT)
-permalink: /exchanges/nubits-exchanges
-menu: Exchanges
+title: NuBits Exchanges (US-NBT)
+permalink: /trade/nubits-exchanges
+menu: Trade
 ---
 <div class="exchanges">
   <a class="exchange" href="https://bittrex.com/Market/Index?MarketName=BTC-NBT" target="_blank">

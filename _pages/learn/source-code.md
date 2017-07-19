@@ -2,8 +2,8 @@
 layout: page
 show_sidebar: true
 title: Source Code
-permalink: /about/source-code
-menu: About
+permalink: /learn/source-code
+menu: Learn
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center><br>
 

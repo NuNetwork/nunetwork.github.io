@@ -1,9 +1,9 @@
 ---
 layout: page
 show_sidebar: true
-title: NuShares (NSR)
-permalink: /exchanges/nushares-exchanges
-menu: Exchanges
+title: NuShares Exchanges (NSR)
+permalink: /trade/nushares-exchanges
+menu: Trade
 ---
 <div class="exchanges">
 	<a class="exchange" href="https://alcurex.com/#NSR-BTC" target="_blank">

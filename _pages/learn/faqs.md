@@ -1,9 +1,9 @@
 ---
 layout: page
 show_sidebar: true
-title: FAQs
-permalink: /about/faqs
-menu: About
+title: Frequent Questions
+permalink: /learn/faqs
+menu: Learn
 ---
 
 [**General**](#General)  
