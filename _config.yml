@@ -7,11 +7,11 @@
 
 # Site settings
 title: NuBits
-email: ryan@skycatchfire.com
-description: "World's Best Stable Digital Currencies"
-url: "https://www.nubits.com" # with the https protocol
-baseurl: "" # the subpath of your site, e.g. /blog
-enforce_ssl: "www.nubits.com" # without any protocol
+email: info@nubits.com
+description: "The Digital Dollar Decentralized"
+url: "https://proteanx.github.io" # with the https protocol
+baseurl: "/nunetwork.github.io" # the subpath of your site, e.g. /blog
+enforce_ssl: "proteanx.github.io/nunetwork.github.io/" # without any protocol
 
 # Build settings
 markdown: kramdown
@@ -21,4 +21,4 @@ sass:
 
 include: ["_pages"]
 
-menu-list: ["About", "Exchanges", "Liquidity Pools", "Resources", "Connect", "NuShares", "Download"]
+menu-list: ["Learn", "Trade", "Status", "Discuss", "Resources", "Download"]

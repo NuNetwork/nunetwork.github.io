@@ -2,8 +2,8 @@
 layout: page
 show_sidebar: true
 title: Price Stability
-permalink: /about/price-stability
-menu: About
+permalink: /learn/price-stability
+menu: Learn
 ---
 ### Two Potential Scenarios
 

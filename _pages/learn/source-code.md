@@ -2,12 +2,12 @@
 layout: page
 show_sidebar: true
 title: Source Code
-permalink: /about/source-code
-menu: About
+permalink: /learn/source-code
+menu: Learn
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center><br>
 
-Delve deeper into the mechanics behind NuBits and [NuShares]({{ site.baseurl }}/nushares/introduction) by checking out the source code.
+Delve deeper into the mechanics behind NuBits and [NuShares]({{ site.baseurl }}/learn/nushares) by checking out the source code.
 
 We look forward to seeing new innovation and development from our community members!
 
