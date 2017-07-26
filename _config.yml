@@ -21,4 +21,4 @@ sass:
 
 include: ["_pages"]
 
-menu-list: ["Learn", "Trade", "Status", "Download", "Discuss", "Resources"]
+menu-list: ["Learn", "Trade", "Status", "Discuss", "Resources", "Download"]
