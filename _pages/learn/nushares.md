@@ -1,7 +1,7 @@
 ---
 layout: page
 show_sidebar: true
-title: Introduction
+title: NuShares
 permalink: /learn/nushares
 menu: Learn
 ---
