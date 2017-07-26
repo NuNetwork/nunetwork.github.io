@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 title: NuShares (NSR)
-permalink: /exchanges/nushares-exchanges
+permalink: /trade/nushares
 menu: Exchanges
 ---
 <div class="exchanges">
