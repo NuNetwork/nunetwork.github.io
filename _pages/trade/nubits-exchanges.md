@@ -3,7 +3,7 @@ layout: page
 show_sidebar: true
 title: NuBits (US-NBT)
 permalink: /trade/nubits
-menu: Exchanges
+menu: Trade
 ---
 <div class="exchanges">
   <a class="exchange" href="https://bittrex.com/Market/Index?MarketName=BTC-NBT" target="_blank">

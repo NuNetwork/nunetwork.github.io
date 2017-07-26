@@ -3,7 +3,7 @@ layout: page
 show_sidebar: true
 title: NuShares (NSR)
 permalink: /trade/nushares
-menu: Exchanges
+menu: Trade
 ---
 <div class="exchanges">
 	<a class="exchange" href="https://alcurex.com/#NSR-BTC" target="_blank">
