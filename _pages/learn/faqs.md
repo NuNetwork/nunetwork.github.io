@@ -74,7 +74,7 @@ There are many significant advantages depending on how NuBits are used.
 
 #### Where can NuBits be purchased?
 
-A full list of current NuBits and NuShares exchanges can be found on our Exchange listings pages. [NuBits (US-NBT)]({{ site.baseurl }}/exchanges/nubits-exchanges) & [NuShares (NSR)]({{ site.baseurl }}/exchanges/nushares-exchanges)
+A full list of current NuBits and NuShares exchanges can be found on our Exchange listings pages. [Trade NuBits & NuShares]({{ site.baseurl }}/trade)
 
 #### How secure are NuBits?
 
@@ -114,7 +114,7 @@ NuBits has been stable over all timeframes since its release. Coinmarketcap is o
 
 Here's an example:
 
-If a trade just happened on an [exchange]({{ site.baseurl }}/exchanges/nubits-exchanges), and 100 NBT were traded for $100.02 worth of BTC (at a price of $370.00/BTC), you'd expect to see "$1.002/NBT" as the price. If the price of BTC updates to $365.00, Coinmarketcap will update all other crypto prices (that came from X/BTC pairs) relative to that price change.
+If a trade just happened on an [exchange]({{ site.baseurl }}/trade), and 100 NBT were traded for $100.02 worth of BTC (at a price of $370.00/BTC), you'd expect to see "$1.002/NBT" as the price. If the price of BTC updates to $365.00, Coinmarketcap will update all other crypto prices (that came from X/BTC pairs) relative to that price change.
 
 NuBot will have reset the walls to take into account the new pricing, so when the next trade happens, the new price will be reflected. Until then, you will see the price for NBT on CMC listed as $0.988459.
 
@@ -128,19 +128,19 @@ Finally, it should be noted that at some point in the near future only NBT/USD t
 
 There are two ways NuBits are created.
 
-First, when individuals who possess [NuShares]({{ site.baseurl }}/nushares/introduction) reach a consensus to grant NuBits to a custodian. A custodian is a person/entity (or persons/entities if multisignature transactions are used) that pledges to use the NuBits in a particular way, such as raising funds for dividend distributions or funding development. Voting occurs among all NuShareholders, and if a custodial grant is successful the NuBits are transferred to a specified address.
+First, when individuals who possess [NuShares]({{ site.baseurl }}/learn/nushares) reach a consensus to grant NuBits to a custodian. A custodian is a person/entity (or persons/entities if multisignature transactions are used) that pledges to use the NuBits in a particular way, such as raising funds for dividend distributions or funding development. Voting occurs among all NuShareholders, and if a custodial grant is successful the NuBits are transferred to a specified address.
 
 Second, when a NuBits user chooses to “park” their NuBits for a set duration in exchange for an interest rate offered by NuShareholders. At the conclusion of the parking period, new NuBits are generated to pay out the interest owed.
 
 #### How do NuBits maintain their $1.00 US value?
 
-This is an important question! Visit our [Price Stability](https://nubits.com/about/price-stability) page to see a full analysis of our pegging mechanisms. The short answer is that NuShareholders use various protocol tools to control the supply of NBT in circulation.
+This is an important question! Visit our [Price Stability](https://nubits.com/learn/price-stability) page to see a full analysis of our pegging mechanisms. The short answer is that NuShareholders use various protocol tools to control the supply of NBT in circulation.
 
 A [multi-tiered liquidity operations plan](https://discuss.nubits.com/t/finalized-evolution-of-liquidity-operations/618) has also been formed that the network is currently in the process of implementing. Liquidity operations help ensure that there is plenty of buy- and sell-side support for NuBits at $1.00 US.
 
 #### What happens if demand suddenly increases or decreases?
 
-Price stability is the core benefit of NuBits and is an important topic. Have a read through our dedicated [Price Stability]({{ site.baseurl }}/about/price-stability) section for more detailed information.  
+Price stability is the core benefit of NuBits and is an important topic. Have a read through our dedicated [Price Stability]({{ site.baseurl }}/learn/price-stability) section for more detailed information.  
 
 #### How is interest paid out to parked NuBits?
 
@@ -154,7 +154,7 @@ From Jordan Lee in this forum thread: [https://discuss.nubits.com/t/regarding-re
 
 > [Benjamin contends that reserves cannot be reliably used to back NuBits](https://discuss.nubits.com/t/100-usd-reserves-offers-zero-benefit-in-terms-of-peg-stability/917). I agree. This view implies that solvency and fractional reserve cannot be assessed by the size of any reserve. If there is no reserve, the notion of "fractional reserve" doesn't even make sense in the context of our network. However, a related concept is the ratio of assets to liabilities as Benjamin pointed out, where NuShares are network assets and currencies issued are liabilities. If the NuShare market cap is 8 million NBT and there are 1 million NBT in circulation, the asset to liability ratio is 8, not counting any reserves that exist. This is a highly solvent state that doesn't resemble anything like fractional reserve.
 
-> It is clear the original design of Nu as articulated [in my whitepaper](https://www.nubits.com/about/white-paper) is a network that avoids the use of reserves entirely to eliminate counterparty risk. When a LPC provides their own funding for liquidity operations, they are implementing this zero reserve model. Shortly before our September 2014 release it became clear that NuBot would need to support primarily NBT/crypto pairs instead of just NBT/USD. This was difficult to implement quickly, which means it had some bugs initially and this approach introduces some extra risks which were not well understood and could not be accurately measured at the time. As a result, KTm and Jamie began using shareholder funds to provide liquidity, which may be regarded as reserves in some contexts. It is has been my intention all along that this would be a temporary situation as we would transition back to the original design of LPCs providing their own funds consistent with the zero reserve and zero counterparty risk model. Indeed all custodians besides Jamie and KTm are providing their funds and the transition is well underway."
+> It is clear the original design of Nu as articulated [in my whitepaper](https://www.nubits.com/learn/white-paper) is a network that avoids the use of reserves entirely to eliminate counterparty risk. When a LPC provides their own funding for liquidity operations, they are implementing this zero reserve model. Shortly before our September 2014 release it became clear that NuBot would need to support primarily NBT/crypto pairs instead of just NBT/USD. This was difficult to implement quickly, which means it had some bugs initially and this approach introduces some extra risks which were not well understood and could not be accurately measured at the time. As a result, KTm and Jamie began using shareholder funds to provide liquidity, which may be regarded as reserves in some contexts. It is has been my intention all along that this would be a temporary situation as we would transition back to the original design of LPCs providing their own funds consistent with the zero reserve and zero counterparty risk model. Indeed all custodians besides Jamie and KTm are providing their funds and the transition is well underway."
 
 #### Can the supply of NuBits be reduced?
 
@@ -168,7 +168,7 @@ The first recorded use of a custodian burning NuBits (which definitively proved 
 
 #### How do NuShareholders determine who gets NuBits?
 
-Votes are done with the presumption that the first and foremost goal is maintaining the $1.00 US peg. NuShareholders are in the business of maintaining NuBits at $1.00, because they know a constant and stable digital currency delivers the most value to users. This will lead to the network being worth more in the long-term. [The white paper]({{ site.baseurl }}/about/white-paper) can give you more insight into how custodians are voted for.
+Votes are done with the presumption that the first and foremost goal is maintaining the $1.00 US peg. NuShareholders are in the business of maintaining NuBits at $1.00, because they know a constant and stable digital currency delivers the most value to users. This will lead to the network being worth more in the long-term. [The white paper]({{ site.baseurl }}/learn/white-paper) can give you more insight into how custodians are voted for.
 
 #### Why is there a 10,000 NuShare minimum to vote on the network?
 

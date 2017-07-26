@@ -43,3 +43,5 @@ menu: Trade
 
 
 **Note:** NuShareholders do not endorse any specific exchange. NuShareholders cannot be held liable for any funds lost by using these exchanges. This listing only intends to be an overview where NuShares and NuBits can be traded. Users of these exchanges need to do their own due diligence before using these exchanges.
+
+
