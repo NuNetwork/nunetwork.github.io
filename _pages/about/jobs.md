@@ -2,8 +2,7 @@
 layout: page
 show_sidebar: true
 title: Jobs
-permalink: /about/jobs
-menu: About
+permalink: /jobs
+redirect_to: https://jobs.nubits.com
+redirect_from: /about/jobs
 ---
-
-### There are no positions currently available
