@@ -21,7 +21,7 @@ NuShareholders can cast votes for actions that positively affect the Nu network.
 
 As of August 2015 there are approximately 835,000,000 NSR and this supply will increase at a rate of approximately 2% per year. The supply increases as Proof-of-Stake minting rewards are given to active individual minters. The current reward per block is 40 NuShares. The current block spacing time is approximately one minute.
 
-Visit our [block explorer](https://blockexplorer.nu) for the most recent NuShare supply numbers.
+Visit our [block explorer](https://nuexplorer.ddns.net/) for the most recent NuShare supply numbers.
 
 #### How many NuShares are needed to vote?
 
