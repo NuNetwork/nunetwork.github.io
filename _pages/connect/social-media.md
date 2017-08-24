@@ -2,8 +2,8 @@
 layout: page
 show_sidebar: true
 title: Social Media
-permalink: /discuss/social-media
-menu: Discuss
+permalink: /connect/social-media
+menu: Connect
 ---
 <h4>Connect with people around the globe.</h4>
 

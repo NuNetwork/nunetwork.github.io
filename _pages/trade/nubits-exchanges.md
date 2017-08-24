@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 title: NuBits (US-NBT)
-permalink: /trade/nubits
+permalink: /exchanges/nubits-exchanges
 menu: Exchanges
 ---
 <div class="exchanges">
