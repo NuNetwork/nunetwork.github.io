@@ -5,7 +5,7 @@ title: Process Map
 permalink: /about/process-map
 menu: About
 ---
-If reading [the white paper]({{ site.baseurl }}/about/white-paper) seems overwhelming, this process map provides a visual complement in showing how the whole Nu system works to provide price stability.
+If reading [the white paper]({{ site.baseurl }}/learn/white-paper) seems overwhelming, this process map provides a visual complement in showing how the whole Nu system works to provide price stability.
 
 Click the image to expand.
 
@@ -15,6 +15,6 @@ Several recent improvements to the Nu network - including variable transaction f
 
 #### Still confused?
 
-Check out our [FAQs]({{ site.baseurl }}/about/faqs) to find answers to popular questions that have been asked.
+Check out our [FAQs]({{ site.baseurl }}/learn/faqs) to find answers to popular questions that have been asked.
 
 Visit our [forum](http://discuss.nubits.com) to find the answers to any other questions you have.

@@ -1,8 +1,9 @@
 ---
 layout: page
 show_sidebar: true
-title: White Paper
-permalink: /about/white-paper
+title: Whitepaper
+permalink: /whitepaper
+redirect_from: /white-paper
 menu: About
 ---
 **Note 1:** The whitepaper was published on September 23, 2014 and several enhancements have occurred since then. Please join us on [discuss.nubits.com](http://discuss.nubits.com) to participate in discussion about proposed enhancements to the Nu network.

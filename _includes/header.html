@@ -2,55 +2,14 @@
   <nav class="navbar navbar-inverse" role="navigation">
     <div class="container">
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-primary-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="{{ site.baseurl }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/global/site-logo.png"></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/assets/img/global/site-logo.png"></a>
       </div>
       <div class="collapse navbar-collapse navbar-nav navbar-right" id="navbar-primary-collapse">
         <ul class="nav">
-          {% for menu-item in site.menu-list %}
-          
-            {% if forloop.first %}
-              {% assign parent_class = 'first dropdown' %}
-            {% elsif forloop.last %}
-              {% assign parent_class = 'last' %}
-            {% else %}
-              {% assign parent_class = 'dropdown' %}
-            {% endif %}
-          
-            {% assign has_dropdown = false %}
-          
-            <li class="{{ parent_class }}">
-              {% for page in site.pages %}
-                {% for pc in page.menu %}
-                  {% if pc == menu-item %}
-                    {% if parent_class == 'last' %}    
-                      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-                    {% else %}
-                      {% if has_dropdown == false %}
-                        {% assign has_dropdown = true %}
-                        <a href="javascript:return false" class="dropdown-toggle">{{ menu-item }}</a>
-                        <ul class="dropdown-menu">
-                      {% endif %}
-                      {% if page.externallink %}
-                        <li><a href="{{ page.externallink }}" target="_blank">{{ page.title }}</a></li>
-                      {% else %}
-                        <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                      {% endif %}
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              {% endfor %}
-              {% if has_dropdown == true %}
-                </ul>
-              {% endif %}
-            </li>
-            
-          {% endfor %}
+            <li><a href="{{ site.baseurl }}/exchanges">Trade</a></li>
+            <li><a href="https://explorer.nubits.com/charts/current_liquidity">Status</a></li>
+            <li><a href="https://discuss.nubits.com/">Discuss</a></li>
+            <li class="last"><a href="{{ site.baseurl }}/wallet">Get Wallet</a></li>
         </ul>
       </div>
     </div>
