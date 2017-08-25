@@ -1,9 +1,9 @@
 ---
 layout: page
-show_sidebar: true
-title: Introduction
-permalink: /learn/nushares
-menu: Learn
+title: NuShares
+permalink: /nushares
+redirect_from: /nushares/introduction
+menu: NuShares
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
 

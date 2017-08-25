@@ -1,6 +1,5 @@
 ---
 layout: page
-show_sidebar: true
 title: Jobs
 permalink: /jobs
 redirect_to: https://jobs.nubits.com

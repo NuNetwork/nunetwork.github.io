@@ -2,8 +2,8 @@
 layout: page
 show_sidebar: true
 title: Process Map
-permalink: /learn/process-map
-menu: Learn
+permalink: /about/process-map
+menu: About
 ---
 If reading [the white paper]({{ site.baseurl }}/learn/white-paper) seems overwhelming, this process map provides a visual complement in showing how the whole Nu system works to provide price stability.
 

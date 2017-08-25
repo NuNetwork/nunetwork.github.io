@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Download Wallet
-permalink: /download
-menu: Download
+title: Get Wallet
+permalink: /wallet
+redirect_from: /download
+redirect_from: /downloads
+menu: Wallet
 ---
 <div class="download-wallet">
   <div class="logo">

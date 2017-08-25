@@ -1,8 +1,8 @@
 ---
 layout: page
-show_sidebar: true
 title: Frequent Questions
-permalink: /learn/faqs
+permalink: /faq
+redirect_from: /about/faqs
 menu: Learn
 ---
 

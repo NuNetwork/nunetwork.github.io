@@ -2,7 +2,9 @@
 layout: page
 show_sidebar: true
 title: Source Code
-permalink: /learn/source-code
+permalink: /source
+redirect_to: https://bitbucket.org/JordanLeePeershares/nubit/overview
+redirect_from: /about/source-code
 menu: Learn
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center><br>
