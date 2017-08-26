@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get Wallet
+title: Wallet
 permalink: /wallet
 redirect_from: /download
 redirect_from: /downloads
