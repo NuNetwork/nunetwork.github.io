@@ -20,7 +20,8 @@ menu: Wallet
       <a href="https://bitbucket.org/JordanLeePeershares/nubit/downloads/nu-5.1.0-linux-gitian.zip" class="linux"><span>Linux v5.1.0</span></a>
       <a href="https://github.com/jooize/Nu-macOS/releases/download/v5.1.0/NuBits-5.1.0.dmg" class="mac"><span>macOS v5.1.0</span></a><br><br>
        <a href="https://play.google.com/store/apps/details?id=com.matthewmitchell.nubits_android_wallet&hl=en" class="btn-large btn btn-info">NuDroid Mobile Wallet</a>
-       <p><b>Description</b>: The official NuBits Android v3.0 wallet. This app allows you to send and receive NuBits on your Android device. It also allows you to spend NuBits anywhere that Bitcoin are accepted, using Shapeshift technology. This release features deterministic wallets (BIP0032) & HD wallets, the ability to encrypt your wallet with a PIN code, as well as various interface and performance enhancements. It also features improved peer recognition to enable faster synchronization and the ability to export transactions for personal record keeping. </p>
+       <p><b>Description</b>: Official NuBits Android v3.0 wallet. Let's you send and receive NuBits on your Android device. Latest version features deterministic wallets (BIP0032) & HD wallets, the ability to encrypt your wallet with a PIN code, and improved peer recognition to enable faster synchronization and the ability to export transactions for personal record keeping.</p>
+      <br>
        <a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet" class="btn-large btn btn-info">Android (Coinomi version)</a>
        <p><b>Description</b>: Coinomi is a wallet that effortlessly stores your NuBits and NuShares without compromising your security. It also supports other cryptoassets such as Bitcoin, Litecoin, and Dogecoin.</p>
     </div>
