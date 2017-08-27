@@ -7,8 +7,8 @@ redirect_from: /nushares/introduction
 menu: NuShares
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
-
-NuShares is the stock and backbone reserve for NuBits' administration and operations. Customers of NuBits only need to trust shareholders, and can otherwise ignore NuShares.
+<br>
+NuShares is the stock and backbone reserve for NuBits.
 
 Shareholders can vote on motions and grants to steer the future of NuBits. New NuShares are created only by shareholders voting on and passing a custodial grant for NSR, or from voting reward (minting).
 
