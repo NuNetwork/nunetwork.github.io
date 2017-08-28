@@ -24,13 +24,13 @@ menu: Exchanges
   <li>
     <a href="https://cryptopia.co.nz/Exchange/?market=USNBT_BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-cryptopia.png" alt="" />
-      Cryptopia
+      Cryptopia (delisted)
     </a>
   </li>
   <li>
     <a href="https://bcexchange.org/" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-BCExchange.png" alt="" />
-      B&C Exchange
+      B&C Exchange (planned)
     </a>
   </li>
 </ul>
@@ -41,21 +41,33 @@ menu: Exchanges
 
 <ul>
   <li>
+    <a href="https://discuss.nubits.com/t/manual-exchange-nsr-btc/5397" target="_blank">
+      <img src="{{ site.baseurl }}/assets/nushares-logo-250.png" alt="" />
+      Manual Exchange by Nu
+    </a>
+  </li>
+  <li>
+    <a href="https://novaexchange.com/" target="_blank">
+      <img src="{{ site.baseurl }}/assets/nu-logo-500.png" alt="" />
+      Novaexchange (pending)
+    </a>
+  </li>
+  <li>
     <a href="https://cryptopia.co.nz/Exchange/?market=NSR_BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-cryptopia.png" alt="" />
-      Cryptopia
+      Cryptopia (delisted)
     </a>
   </li>
   <li>
     <a href="https://alcurex.com/#NSR-BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/alcurex.png" alt="" />
-      Alcurex
+      Alcurex (unavailable)
     </a>
   </li>
   <li>
     <a href="https://bcexchange.org/" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-BCExchange.png" alt="" />
-      B&C Exchange
+      B&C Exchange (planned)
     </a>
   </li>
 </ul>
