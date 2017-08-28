@@ -47,6 +47,12 @@ menu: Exchanges
     </a>
   </li>
   <li>
+    <a href="https://alcurex.com/#NSR-BTC" target="_blank">
+      <img src="{{ site.baseurl }}/assets/alcurex.png" alt="" />
+      Alcurex (unavailable)
+    </a>
+  </li>
+  <li>
     <a href="https://novaexchange.com/" target="_blank">
       <img src="{{ site.baseurl }}/assets/nu-logo-500.png" alt="" />
       Novaexchange (pending)
@@ -56,12 +62,6 @@ menu: Exchanges
     <a href="https://cryptopia.co.nz/Exchange/?market=NSR_BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-cryptopia.png" alt="" />
       Cryptopia (delisted)
-    </a>
-  </li>
-  <li>
-    <a href="https://alcurex.com/#NSR-BTC" target="_blank">
-      <img src="{{ site.baseurl }}/assets/alcurex.png" alt="" />
-      Alcurex (unavailable)
     </a>
   </li>
   <li>
