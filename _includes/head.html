@@ -1,14 +1,9 @@
 <head>
-  <script type="text/javascript">
-    if (window.location.protocol != "https:")
-    window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
-  </script>
-  
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }} – {{ site.title | escape }}{% else %}{{ site.title | escape }} – World's Best Stable Digital Currencies{% endif %}</title>
+  <title>{% if page.title %}{{ site.title | escape }} – {{ page.title | escape }}{% else %}{{ site.title | escape }} – World's Best Stable Digital Currencies{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   
   <script type="text/javascript" src="//cdn.jsdelivr.net/g/jquery@1.8.3,modernizr@2.7,respond@1.4,bootstrap@3.2,jquery.blast@1.1.1,jquery.velocity@0.11.9(jquery.velocity.min.js+velocity.ui.min.js)"></script>
