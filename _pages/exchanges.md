@@ -43,13 +43,13 @@ menu: Exchanges
   <li>
     <a href="https://discuss.nubits.com/t/manual-exchange-nsr-btc/5397" target="_blank">
       <img src="{{ site.baseurl }}/assets/nushares-logo-250.png" alt="" />
-      Manual Exchange by Nu
+      Manual Exchange
     </a>
   </li>
   <li>
     <a href="https://alcurex.com/#NSR-BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/alcurex.png" alt="" />
-      Alcurex (unavailable)
+      Alcurex (withdrawal issues)
     </a>
   </li>
   <li>
