@@ -8,7 +8,7 @@ menu: NuShares
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="nushares-logo-full-150-twotone.png" /></center>
 <br>
-NuShares is the company stock and the backbone reserve for NuBits. Shareholders control the network by voting, and have the power to …
+NuShares is the company stock and the backbone reserve for NuBits. Shareholders control the network by voting, and have power to …
 
 - Issue new NuBits (US-NBT, CN-NBT, EU-NBT, X-NBT).
 - Issue new NuShares (NSR).
