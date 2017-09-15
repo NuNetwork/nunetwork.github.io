@@ -50,7 +50,7 @@ menu: Exchanges
   -->
   <li>
     <a href="https://novaexchange.com/market/BTC_NSR/" target="_blank">
-      <img src="{{ site.baseurl }}/assets/nushares-logo-250.png" alt="" />
+      <img src="{{ site.baseurl }}/assets/logo-novaexchange.png" alt="" />
       Novaexchange
     </a>
   </li>
