@@ -2,8 +2,9 @@
 layout: page
 title: Wallet
 permalink: /wallet
-redirect_from: /download
-redirect_from: /downloads
+redirect_from:
+- /download
+- /downloads
 menu: Wallet
 ---
 <div class="download-wallet">
