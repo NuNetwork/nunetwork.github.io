@@ -7,7 +7,7 @@
 
 # Site settings
 title: NuBits
-email: info@nubits.com
+email: team@nubits.com
 description: "World's Best Stable Digital Currencies"
 url: "https://www.nubits.com" # with the https protocol
 baseurl: "" # the subpath of your site, e.g. /blog
