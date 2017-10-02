@@ -6,7 +6,7 @@ permalink: /history
 
 ## The Peershares Template
 
-On September 28th, 2013, Jordan Lee **[introduced](https://www.peercointalk.org/index.php?topic=527.msg4249#msg4249)** his plan to develop **[Peershares](http://www.peershares.net/)**, which was a template that could be used to build highly customized distributed autonomous organizations (DAOs) and corporations (DACs). In its most simple state, Peershares can be issued by businesses in order to raise funding and track share ownership in a decentralized way. Any profit made by the company can then be distributed back to shareholders in the form of any cryptocurrency. Each Peershares implementation would use its own independent blockchain secured cheaply and easily using Peercoin's proof-of-stake and shares can be transferred and held just like any other cryptocurrency unit.
+On September 28th, 2013, Jordan Lee **[introduced](https://www.peercointalk.org/index.php?topic=527.msg4249#msg4249)** his plan to develop Peershares, which was a template that could be used to build highly customized distributed autonomous organizations (DAOs) and corporations (DACs). In its most simple state, Peershares can be issued by businesses in order to raise funding and track share ownership in a decentralized way. Any profit made by the company can then be distributed back to shareholders in the form of any cryptocurrency. Each Peershares implementation would use its own independent blockchain secured cheaply and easily using Peercoin's proof-of-stake and shares can be transferred and held just like any other cryptocurrency unit.
 
 ## The World's First Stable Digital Currency
 
