@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Frequent Questions
+menu: Documentation
+show_sidebar: true
 permalink: /faq
 redirect_from: /about/faqs
 menu: Learn
