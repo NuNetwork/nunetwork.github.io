@@ -7,7 +7,7 @@ permalink: /accept-nubits
 ---
 NuBits in combination with a payment processor enables merchants to disregard the volatility of other cryptocurrencies.
 
-## Accept NuBits via CoinPayments
+## CoinPayments
 
 [CoinPayments.net](https://www.coinpayments.net) provides a reliable and solid infrastructure for merchants that wish to accept payments in cryptocurrencies. CoinPayments provides plugins for popular e-commerce platforms.
 
@@ -16,7 +16,7 @@ NuBits in combination with a payment processor enables merchants to disregard th
 - CoinPayments can automatically convert other cryptocurrencies to stable NuBits. In the `Payout Mode` column select `To Balance + Convert` and then `USNBT`.
 - Integrate NuBits into your e-commerce using CoinPayment's [merchant tools](https://www.coinpayments.net/merchant-tools) and [available plugins](https://www.coinpayments.net/merchant-tools-plugins).
 
-## Accept NuBits via Coinify
+## Coinify
 
 [Coinify.com](https://coinify.com)
 
@@ -24,10 +24,10 @@ NuBits in combination with a payment processor enables merchants to disregard th
 - Add a [Payment Account](https://www.coinify.com/merchant/accounts) in Bitcoin.
 - …
 
-## Accept NuBits via ShapeShift
+## ShapeShift
 
 [https://shapeshift.io](ShapeShift.io)
 
-## Other services
+## Cointopay
 
--  [Cointopay](https://cointopay.com/)
+[Cointopay](https://cointopay.com)
