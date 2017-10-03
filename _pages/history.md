@@ -1,6 +1,8 @@
 ---
 layout: page
 title: History
+menu: Documentation
+show_sidebar: true
 permalink: /history
 ---
 
