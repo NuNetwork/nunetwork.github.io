@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Glossary
+menu: Documentation
+show_sidebar: true
 permalink: /glossary
 ---
 ## Nu Terms
