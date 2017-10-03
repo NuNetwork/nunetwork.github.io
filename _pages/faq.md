@@ -5,7 +5,6 @@ menu: Documentation
 show_sidebar: true
 permalink: /faq
 redirect_from: /about/faqs
-menu: Learn
 ---
 
 [**General**](#General)  
