@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Accept NuBits
+menu: Documentation
+show_sidebar: true
 permalink: /accept-nubits
 ---
 NuBits in combination with a payment processor enables merchants to disregard the volatility of other cryptocurrencies.
