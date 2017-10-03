@@ -2,6 +2,8 @@
 layout: page
 title: APIs
 permalink: /api
+menu: Documentation
+show_sidebar: true
 callouts:
   - shortname: use-ports-application
     type: warning
