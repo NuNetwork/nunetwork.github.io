@@ -1,10 +1,10 @@
 ---
-layout: page
-show_sidebar: true
 title: Whitepaper
+menu: Documentation
+show_sidebar: true
 permalink: /whitepaper
 redirect_from: /about/white-paper
-menu: About
+layout: page
 ---
 **Note 1:** The whitepaper was published on September 23, 2014 and several enhancements have occurred since then. Please join us on [discuss.nubits.com](http://discuss.nubits.com) to participate in discussion about proposed enhancements to the Nu network.
 
