@@ -22,9 +22,15 @@ menu: Exchanges
     </a>
   </li>
   <li>
+    <a href="https://www.southxchange.com/Market/Book/BTC/USNBT" target="_blank">
+      <img src="{{ site.baseurl }}/assets/nubits-logo-250.png" alt="" />
+      SouthXchange
+    </a>
+  </li>
+  <li>
     <a href="https://cryptopia.co.nz/Exchange/?market=USNBT_BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-cryptopia.png" alt="" />
-      Cryptopia (delisted)
+      Cryptopia (delisting)
     </a>
   </li>
   <li>
@@ -63,7 +69,7 @@ menu: Exchanges
   <li>
     <a href="https://cryptopia.co.nz/Exchange/?market=NSR_BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-cryptopia.png" alt="" />
-      Cryptopia (delisted)
+      Cryptopia (delisting)
     </a>
   </li>
   <li>
