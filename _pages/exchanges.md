@@ -23,7 +23,7 @@ menu: Exchanges
   </li>
   <li>
     <a href="https://www.southxchange.com/Market/Book/BTC/USNBT" target="_blank">
-      <img src="{{ site.baseurl }}/assets/nubits-logo-250.png" alt="" />
+      <img src="{{ site.baseurl }}/assets/logo-southxchange-400.png" alt="" />
       SouthXchange
     </a>
   </li>
