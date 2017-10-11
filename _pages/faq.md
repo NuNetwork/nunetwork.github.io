@@ -7,8 +7,7 @@ permalink: /faq
 redirect_from: /about/faqs
 ---
 
-[**General**](#General)  
-[Do I need to know all the information below to use NuBits?](#do-i-need-to-know)  
+[**General**](#General)
 [What advantages do NuBits have over other payment methods and digital currencies?](#advantages)  
 [Where can NuBits be purchased?](#where-can-nubits-be-purchased)  
 [How secure are NuBits?](#how-secure)  
@@ -55,10 +54,6 @@ redirect_from: /about/faqs
 
 ### **General**
 
-#### Do I need to know all the information below to use NuBits?
-
-No, absolutely not. The following information is intended as a source of information for people who really, really like understanding cryptocurrency design. For everyone what's most important is the simple knowledge that one NuBit equals $1.00 USD & the NuBit is protected by a decentralised network democratially controlled via NuShares NSR Shareholders. There's no single point of failure!
-
 #### What advantages do NuBits have over other payment methods and digital currencies?
 
 There are many significant advantages depending on how NuBits are used.
@@ -73,13 +68,9 @@ There are many significant advantages depending on how NuBits are used.
 
 **Trading** – Traders can purchase NuBits as a stable hedge rather than liquidating their holdings to fiat money. These NuBits can then quickly and easily be transferred off exchanges into private wallets. NuBits makes trading digital currencies easier.
 
-#### Where can NuBits be purchased?
-
-A full list of current NuBits and NuShares exchanges can be found on our Exchange listings pages. [Trade NuBits & NuShares]({{ site.baseurl }}/trade)
-
 #### How secure are NuBits?
 
-We have been careful during development to alter the fundamentals of the Bitcoin code base as little as possible so that we inherit the robustness and reliability of the Bitcoin network. Nonetheless, Nu is a revolutionary network built without any precedent. Like all cryptocurrencies & blockchain projects Nu should be considered an innovation that's certainly not without risk but with endless potential. We as the crypto-currency community are currently participating in a groundbreaking global beta test! Accordingly, we advise on our [disclaimer page](https://www.nubits.com/disclaimer) that no one should entrust the network with any funds they cannot afford to lose or delay investment until the network is even further proven. We have rapidly improved our software/network over the last few years of experience & only expect the security and strength of the distrubuted network to continue to grow.
+We have been careful during development to alter the fundamentals of the Bitcoin code base as little as possible so that we inherit the robustness and reliability of the Bitcoin network. Nonetheless, Nu is a revolutionary network built without any precedent. Like all cryptocurrencies and blockchain projects Nu should be considered an innovation that's certainly not without risk but with endless potential. We advise in our [disclaimer](https://nubits.com/disclaimer) that no one should entrust the network with any funds they cannot afford to lose, or delay investment until the network is further proven. We have rapidly improved our software/network over the last few years of experience and only expect the security and strength of the distrubuted network to continue to grow.
 
 #### Are NuBits pre-mined?
 
