@@ -3,7 +3,7 @@ layout: page
 title: List NuBits and NuShares at your exchange
 permalink: /list-nubits
 ---
-List our stable cryptocurrencies and give your traders access to the benefits of NuBits. Include NuShares for investors with minimal additional effort.
+**List our stable cryptocurrencies and give your traders access to the benefits of NuBits. Include NuShares for investors with minimal additional effort.**
 
 Set up NuBits as pairs with -NBT as denominator to attract most traders. They're accustomed to using BTC/USD (or BTC/CNY), and our currency US NuBits is pegged to the US dollar, making BTC/USNBT most intuitive. SouthXchange is an excellent reference.
 
