@@ -1,6 +1,8 @@
 ---
 layout: page
 title: List NuBits and NuShares at your exchange
+menu: Documentation
+show_sidebar: true
 permalink: /list-nubits
 ---
 **List our stable cryptocurrencies and give your traders access to the benefits of NuBits. Include NuShares for investors with minimal additional effort.**
