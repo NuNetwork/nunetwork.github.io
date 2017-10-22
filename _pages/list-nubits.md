@@ -5,7 +5,7 @@ permalink: /list-nubits
 ---
 ## List NuBits and NuShares at your exchange
 
-1. [Download](/wallet) or compile the NuBits Wallet from [source](/source).
+1. [Download](/wallet) or compile NuBits Wallet from [source](/source).
 2. Use our recommended settings in `nu.conf`.
 3. Contact [team@nubits.com](mailto:team@nubits.com) at any time.
 
