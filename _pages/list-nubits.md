@@ -7,7 +7,7 @@ permalink: /list-nubits
 
 1. [Download](/wallet) or compile the NuBits Wallet from [source](/source).
 2. Use our recommended settings in `nu.conf`.
-3. Contact [team@nubits.com](mailto:team@nubits.com) regarding anything.
+3. Contact [team@nubits.com](mailto:team@nubits.com) at any time.
 
 ### Exchange settings for `nu.conf`
 
