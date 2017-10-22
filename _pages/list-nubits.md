@@ -1,9 +1,15 @@
 ---
 layout: page
-title: List NuBits and NuShares
+title: List NuBits and NuShares at your exchange
 permalink: /list-nubits
 ---
-## List NuBits and NuShares at your exchange
+List our stable cryptocurrencies and give your traders access to the benefits of NuBits. Include NuShares for investors with minimal additional effort.
+
+Set up NuBits as pairs with -NBT as denominator to attract most traders. They're accustomed to using BTC/USD (or BTC/CNY), and our currency US NuBits is pegged to the US dollar, making BTC/USNBT most intuitive. SouthXchange is an excellent reference.
+
+We will provide peg-supporting liquidity at exchanges where NuBits is paired with Bitcoin, Ethereum, and US dollar (fiat). Our spread is 1% or below, including your trading fee. Our Bitcoin price feed is an average of aggregated sources.
+
+## List NuBits
 
 1. [Download](/wallet) or compile NuBits Wallet from [source](/source).
 2. Use our recommended settings in `nu.conf`.
