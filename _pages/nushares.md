@@ -6,10 +6,6 @@ permalink: /nushares
 redirect_from: /nushares/introduction
 menu: NuShares
 ---
-<style>
-.page-title-wrapper { display: none; }
-body > .container { margin-top: 30px; }
-</style>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="" style="float: left; margin: 10px 60px 40px 20px">
 **NuShares is the company stock and the backbone reserve for NuBits. Shareholders control the network by voting, and have power to …**
 
