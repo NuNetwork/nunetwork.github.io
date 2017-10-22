@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List NuBits and NuShares at your exchange
+title: List NuBits and NuShares
 menu: Documentation
 show_sidebar: true
 permalink: /list-nubits
