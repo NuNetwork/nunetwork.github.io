@@ -5,3 +5,4 @@ permalink: /documentation
 redirect_from: /docs
 redirect_to: https://nubits.com/list-nubits
 ---
+Continue to <https://nubits.com/list-nubits>
