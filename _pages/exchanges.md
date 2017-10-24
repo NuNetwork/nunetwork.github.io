@@ -12,7 +12,7 @@ menu: Exchanges
 
 <div id="exchanges">
 <div id="exchanges-usnbt">
-<h2>US NuBits (US-NBT)</h2>
+<h2>US NuBits (USNBT)</h2>
 
 <ul>
   <li>
