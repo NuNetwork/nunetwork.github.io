@@ -5,6 +5,17 @@ menu: Documentation
 show_sidebar: true
 permalink: /wallet-manual
 ---
+We strive to design an intuitive NuBits Wallet everyone can use without instructions.
+
+## Configuration file
+
+- Linux: `~/.nu`
+- macOS: `~/Library/Application Support/Nu`
+- Windows (8 or later): `C:\Users\%USERNAME%\AppData\Roaming\nu`
+- Windows (XP/2000/2K3): `C:\Documents and Settings\%USERNAME%\Application Data\nu`
+
+## Daemon arguments
+
 `nud [options] <command> [params]`
 Send command to -server or nud
 
@@ -77,7 +88,6 @@ Command | Description
 Command | Description
 --------|------------
 `-upnp` | Use Universal Plug and Play to map the listening port (default: 1)
-
 
 ### ifdef WIN32
 
