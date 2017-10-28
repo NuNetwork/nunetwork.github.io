@@ -12,7 +12,7 @@ callouts:
 ---
 ## JSON-RPC API in NuBits Wallet
 
-Many commands can be used for multiple units (Such as NuBits or NuShares). Some commands will force you to specify the unit code (B or S), but others will not. In the cases where you aren't required to provide the code, commands will default to NuShares. If you would like to use other units it can be done a couple different ways. 
+Many commands can be used for multiple units (NuBits or NuShares). Some commands will force you to specify the unit code (B or S), but others will not. In the cases where you aren't required to provide the code, commands will default to NuShares. If you would like to use other units it can be done a couple different ways. 
 
 * Pointing to the units network port
 * Preceeding commands with the `--unit=<unit>` parameter
@@ -21,7 +21,7 @@ Many commands can be used for multiple units (Such as NuBits or NuShares). Some 
 
 ## Command line
 
-The `--unit=<unit>` flag is provied as a command line convenience. For example to get a new NuBits address from the daemon you would run `./nud --unit=B getnewaddress` as `./nud getnewaddress` would return a NuShares address by default.
+The `--unit=<unit>` flag is provided as a command line convenience. For example to get a new NuBits address from the daemon you would run `./nud --unit=B getnewaddress` as `./nud getnewaddress` would return a NuShares address by default.
 
 ## Nu Network Ports
 
