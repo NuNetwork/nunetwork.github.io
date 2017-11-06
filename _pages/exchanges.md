@@ -27,6 +27,7 @@ menu: Exchanges
       SouthXchange
     </a>
   </li>
+  <!--
   <li>
     <a href="https://cryptopia.co.nz/Exchange/?market=USNBT_BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-cryptopia.png" alt="" />
@@ -39,6 +40,7 @@ menu: Exchanges
       B&C Exchange (planned)
     </a>
   </li>
+  -->
 </ul>
 </div>
 
@@ -66,6 +68,7 @@ menu: Exchanges
       Novaexchange
     </a>
   </li>
+  <!--
   <li>
     <a href="https://cryptopia.co.nz/Exchange/?market=NSR_BTC" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-cryptopia.png" alt="" />
@@ -78,6 +81,7 @@ menu: Exchanges
       B&C Exchange (planned)
     </a>
   </li>
+  -->
 </ul>
 </div>
 </div>
