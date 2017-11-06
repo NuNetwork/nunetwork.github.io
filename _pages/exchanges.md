@@ -55,15 +55,15 @@ menu: Exchanges
   </li>
   -->
   <li>
-    <a href="https://novaexchange.com/market/BTC_NSR/" target="_blank">
-      <img src="{{ site.baseurl }}/assets/logo-novaexchange.png" alt="" />
-      Novaexchange
+    <a href="https://alcurex.com/#NSR-BTC" target="_blank">
+      <img src="{{ site.baseurl }}/assets/alcurex.png" alt="" />
+      Alcurex
     </a>
   </li>
   <li>
-    <a href="https://alcurex.com/#NSR-BTC" target="_blank">
-      <img src="{{ site.baseurl }}/assets/alcurex.png" alt="" />
-      Alcurex (withdrawal issues)
+    <a href="https://novaexchange.com/market/BTC_NSR/" target="_blank">
+      <img src="{{ site.baseurl }}/assets/logo-novaexchange.png" alt="" />
+      Novaexchange
     </a>
   </li>
   <li>
