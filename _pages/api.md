@@ -19,9 +19,9 @@ Many commands can be used for multiple units (NuBits or NuShares). Some commands
 
 {% include callout-block.html name="use-ports-application" %}
 
-## Command line
+## Command Line
 
-The `--unit=<unit>` flag is provided as a command line convenience. For example to get a new NuBits address from the daemon you would run `./nud --unit=B getnewaddress` as `./nud getnewaddress` would return a NuShares address by default.
+The `--unit=<unit>` flag is provided as a command-line convenience. To get a new NuBits address from the daemon you run `./nud --unit=B getnewaddress` as `./nud getnewaddress` would return a NuShare address by default.
 
 ## Nu Network Ports
 
@@ -29,7 +29,7 @@ Example of pointing Peatio exchange to use NuBits from the daemon:
 
 `rpc: http://nuEx:123exch@127.0.0.1:14002`
 
-### protocol ports
+### Protocol Ports
 
 Production Network | Test Network
 ----------|----------
@@ -45,7 +45,8 @@ NuBits | 14002 | 15002
 ### Other Networks RPC
 
 #### Peercoin
-Peercoin ports used when communicating with the Peercoin wallet for dividend distributions
+
+Target ports used when communicating with the Peercoin wallet for dividend distributions.
 
 Production Network | Test Network
 ----------|----------
