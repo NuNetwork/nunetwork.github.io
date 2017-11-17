@@ -47,6 +47,6 @@ Quick and easy fix. Unless traders deposit funds using custom settings with the 
 
 No maintenance once configured, but involves pushing multiple transaction IDs to withdrawal history.
 
-1. Add `multitx=1` to the `nu.conf`.
+1. Add `multitx=1` to `nu.conf`.
 2. Use a long `walletpassphrase` timeout (3–10 minutes) to avoid a multi-transaction send being aborted.
 3. Make sure your system handles receiving and logging multiple transaction IDs properly.
