@@ -7,9 +7,9 @@ permalink: /list-nubits
 ---
 **List our stable cryptocurrencies and give your traders access to the benefits of NuBits. Include NuShares for investors with minimal additional effort.**
 
-Set up NuBits as pairs with -NBT as denominator to attract most traders. They're accustomed to using BTC/USD (or BTC/CNY), and our currency US NuBits is pegged to the US dollar, making BTC/USNBT most intuitive. SouthXchange is an excellent reference.
+Set up NuBits as pairs with xxNBT as denominator to attract most traders. They're accustomed to using BTC/USD (or BTC/CNY), and our currency US NuBits is pegged to the US dollar, making BTC/USNBT far more intuitive. SouthXchange is an excellent reference.
 
-We will provide peg-supporting liquidity at exchanges where NuBits is paired with Bitcoin, Ethereum, and US dollar (fiat). Our spread is 1% or below, including your trading fee. Our Bitcoin price feed is an average of aggregated sources.
+We will provide peg-supporting liquidity at exchanges where NuBits is paired with Bitcoin, Ethereum, or US dollar. Our spread is always below or equal to 1%, and includes the exchange fee for everyone's convenience. Our price feeds are averages of aggregated sources.
 
 ## List NuBits
 
@@ -26,9 +26,11 @@ splitshareoutputs=0
 avatar=0
 ```
 
-### Handle NuShare transactions with many outputs
+See [NuBits Wallet Manual](https://nubits.com/wallet-manual) for location of `nu.conf`.
 
-In order to vote at optimal rate, shareholders split the NuShares in their addresses by 10,000 NSR per output. Trying to send large amounts using split outputs could fail, so we built three mechanisms as workarounds.
+### Withdrawal of NuShares after large deposits from voting shareholders
+
+In order to vote at optimal rate, shareholders split the NuShares in their addresses by 10,000 NSR per output, and since transactions have technical limits applying to all Bitcoin-based blockchain assets, exchanges should handle sending with an unusual amount of outputs. We built three mechanisms into NuBits Wallet to help resolve potential issues.
 
 - NuBits Wallet always avoids including unnecessary outputs.
 - Option `multitx=1` lets the wallet create multiple transactions to send funds. RPC commands return each transaction ID separated by newline.
