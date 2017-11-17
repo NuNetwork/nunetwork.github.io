@@ -17,7 +17,7 @@ We will provide peg-supporting liquidity at exchanges where NuBits is paired wit
 2. Use our recommended settings in `nu.conf`.
 3. Contact [team@nubits.com](mailto:team@nubits.com) at any time.
 
-### Exchange settings for `nu.conf`
+### Exchange settings
 
 ```
 debug=1
