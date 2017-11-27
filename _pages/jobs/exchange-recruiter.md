@@ -5,7 +5,7 @@ title: Exchange Recruiter
 permalink: /jobs/exchange-recruiter
 menu: Jobs
 ---
-Nu, and to a lesser extent, B&C Exchange, both have a critical need to be promoted on cryptocurrency exchanges. Their customers (BlockShare holders, NuShare holders and NuBit holders) are expected to be cryptocurrency traders. As such, NuShares, BlockShares and NuBits need to be presented to users of cryptocurrency exchanges. A perfect example of how we would like to see this happen was given by SouthXchange: https://southxchange.com/Market/Book/BTC/USNBT. Notice that throughout the SouthXchange site there's a trading pair navigation tool on the upper right of the web interface that includes a tab for “USNBT”, with trading pairs beneath that. Ideally, we would see a tab for USNBT, CNNBT (Chinese NuBits), and listings for BlockShares and NuShares under the BTC tab.
+Nu, and to a lesser extent, B&C Exchange, both have a critical need to be promoted on cryptocurrency exchanges. Their customers (BlockShare holders, NuShare holders and NuBit holders) are expected to be cryptocurrency traders. As such, NuShares, BlockShares and NuBits need to be presented to users of cryptocurrency exchanges. A perfect example of how we would like to see this happen was given by SouthXchange: <https://southxchange.com/Market/Book/BTC/USNBT>. Notice that throughout the SouthXchange site there's a trading pair navigation tool on the upper right of the web interface that includes a tab for “USNBT”, with trading pairs beneath that. Ideally, we would see a tab for USNBT, CNNBT (Chinese NuBits), and listings for BlockShares and NuShares under the BTC tab.
 
 These projects emerged from peer-to-peer technical communities that tended to over-focus on technical issues while neglecting marketing. The effort to find an exchange recruiter is an effort to begin to balance efforts toward marketing.
 
@@ -29,16 +29,16 @@ The nature of the work is to proactively approach cryptocurrency exchanges, of w
 > 
 > Be in touch,
 > 
-> Esko
-> Manager, Liquidity Operations, NuBits
+> Esko  
+> Manager, Liquidity Operations, NuBits  
 > Vancouver BC, Canada
 > 
-> https://nubits.com
-> https://nubits.com/source
-> https://nubits.com/explorer
+> https://nubits.com  
+> https://nubits.com/source  
+> https://nubits.com/explorer  
 > https://nubits.com/forum
 
-We estimate the best type of person to fill this role is a technical recruiter: someone used to trying to match IT talent with IT employers. The principle reason is that this is a sales role: It involves taking the initiative to approach cryptocurrency exchanges such as those listed here (https://coinmarketcap.com/exchanges/volume/24-hour/all/) and propose they list various trading pairs for us, in exchange for liquidity on those pairs. We can expect most exchanges will ignore an approach, just as most software developers ignore an approach from a recruiter. We can expect that of the exchanges that do respond, most will not eventually list our cryptocurrencies or assets, just as most software developers that respond to recruiters will not end up closing a deal. There is a lot of rejection. Most people can't deal with that and continue initiating interactions, although a small percentage of people can. Someone who has demonstrated the capacity to function as a technical recruiter has demonstrated they are in that small subset of people who can emotionally deal with regular rejection.
+We estimate the best type of person to fill this role is a technical recruiter: someone used to trying to match IT talent with IT employers. The principle reason is that this is a sales role: It involves taking the initiative to approach cryptocurrency exchanges such as those listed here (<https://coinmarketcap.com/exchanges/volume/24-hour/all/>) and propose they list various trading pairs for us, in exchange for liquidity on those pairs. We can expect most exchanges will ignore an approach, just as most software developers ignore an approach from a recruiter. We can expect that of the exchanges that do respond, most will not eventually list our cryptocurrencies or assets, just as most software developers that respond to recruiters will not end up closing a deal. There is a lot of rejection. Most people can't deal with that and continue initiating interactions, although a small percentage of people can. Someone who has demonstrated the capacity to function as a technical recruiter has demonstrated they are in that small subset of people who can emotionally deal with regular rejection.
 
 Other reasons why we believe a technical recruiter is the ideal type of person to fill this role is that it will require some command of technical and IT concepts, similar to recruiting for software developer roles. However, the person does not need to be so technically proficient as to actually be a developer. Recruiting software developers and exchanges to list our cryptocurrencies are fundamentally similar in that they are both sales interactions that require negotiation in a technical IT environment, where rejection is nearly constant.
 
