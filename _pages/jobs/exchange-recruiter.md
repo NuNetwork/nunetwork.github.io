@@ -5,6 +5,7 @@ title: Exchange Recruiter
 permalink: /jobs/exchange-recruiter
 menu: Jobs
 ---
+<style>blockquote { font-size: 1.1em; }</style>
 Nu, and to a lesser extent, B&C Exchange, both have a critical need to be promoted on cryptocurrency exchanges. Their customers (BlockShare holders, NuShare holders and NuBit holders) are expected to be cryptocurrency traders. As such, NuShares, BlockShares and NuBits need to be presented to users of cryptocurrency exchanges. A perfect example of how we would like to see this happen was given by SouthXchange: <https://southxchange.com/Market/Book/BTC/USNBT>. Notice that throughout the SouthXchange site there's a trading pair navigation tool on the upper right of the web interface that includes a tab for “USNBT”, with trading pairs beneath that. Ideally, we would see a tab for USNBT, CNNBT (Chinese NuBits), and listings for BlockShares and NuShares under the BTC tab.
 
 These projects emerged from peer-to-peer technical communities that tended to over-focus on technical issues while neglecting marketing. The effort to find an exchange recruiter is an effort to begin to balance efforts toward marketing.
