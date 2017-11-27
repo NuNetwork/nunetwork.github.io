@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 title: Two Senior C++ Blockchain Developers
-permalink: /hiring-two-senior-cpp-blockchain-developers
+permalink: /jobs/two-senior-cpp-blockchain-developers
 menu: Jobs
 ---
 Two full-time contractor positions need to be filled.
