@@ -7,15 +7,19 @@ permalink: /exchanges-v2
 table {
   text-align: left;
   border-collapse: collapse;
+  margin-bottom: 20px;
 }
 table td, table th {
   border: 1px solid #FFFFFF;
   padding: 3px 4px;
+  font-size: 1.2em;
 }
 table thead {
-  }
+  display: none;
+}
 table thead th {
   font-weight: bold;
+  font-size: 1.4em;
 }
 </style>
 
