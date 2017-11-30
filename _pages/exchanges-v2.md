@@ -19,8 +19,8 @@ table thead th {
 }
 </style>
 
-| Exchange | Pair | Liquidity | Link |
-|---|---:|---|---|
+| Exchange | Pair | Liquidity |
+|---|---:|---|
 | **Bittrex** | [(US)NBT/**BTC**](https://bittrex.com/Market/Index?MarketName=BTC-NBT) | $100,000–200,000
 | **SouthXchange** | [**BTC**/USNBT](https://www.southxchange.com/Market/Book/BTC/USNBT) | $20,000
 | **SouthXchange** | [**ETH**/USNBT](https://www.southxchange.com/Market/Book/ETH/USNBT) | $20,000
