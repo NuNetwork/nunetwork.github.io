@@ -21,27 +21,20 @@ table thead th {
 
 | Exchange | Pair | Liquidity |
 |---|---:|---|
-| **Bittrex** | [(US)NBT/**BTC**](https://bittrex.com/Market/Index?MarketName=BTC-NBT) | $100,000–200,000
+| **Bittrex** | [(US)NBT/**BTC**](https://bittrex.com/Market/Index?MarketName=BTC-NBT) | $300,000
 | **SouthXchange** | [**BTC**/USNBT](https://www.southxchange.com/Market/Book/BTC/USNBT) | $20,000
 | **SouthXchange** | [**ETH**/USNBT](https://www.southxchange.com/Market/Book/ETH/USNBT) | $20,000
 | **SouthXchange** | [USNBT/**USD**](https://www.southxchange.com/Market/Book/USNBT/USD) | $10,000
 | **SouthXchange** | [NSR/**BTC**](https://www.southxchange.com/Market/Book/NSR/BTC) | $20,000 of temporary liquidity.
 | **SouthXchange** | [NSR/**USNBT**](https://www.southxchange.com/Market/Book/NSR/USNBT) | $20,000 of temporary liquidity.
+
+<!--
 | **Alcurex** | [NSR/**BTC**](https://alcurex.com/#NSR-BTC) | NuShare buybacks daily.
-| **Novaexchange** | [NSR/**BTC**](https://novaexchange.com/market/BTC_NSR/) | Buybacks daily. _Read notice under status above._
+| **Novaexchange** | [NSR/**BTC**](https://novaexchange.com/market/BTC_NSR/) | NuShare buybacks daily.
+-->
 
 _Availability subject to velocity of demand and liquidity operator's presence._
 
-| Exchange | Assets | News |
-|---|---|---
-| **Alcurex** | NSR, BTC | Deposits and withdrawals offline.
-| **Bittrex** | USNBT, BTC | Expansion proposal pending response.
-| **SouthXchange** | NSR, USNBT, BTC, ETH | **New:** ETH/USNBT, NSR/BTC, NSR/USNBT
-| **Cryptopia** | NSR, USNBT, BTC | Delisting. Withdraw balances immediately.
-| **Novaexchange** | NSR, BTC | Shutting down April 2018. Withdrawals not working.
+**Exchange owners: [List NuBits and NuShares](https://nubits.com/list-nubits)**
 
-# Exchange Operator Notice
-
-Always read our most up-to-date instructions, and please [contact us](https://nubits.com/contact) in any event you need support.
-
-**[List NuBits and NuShares](https://nubits.com/list-nubits)**
+<br>
