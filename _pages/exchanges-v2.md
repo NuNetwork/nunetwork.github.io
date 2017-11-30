@@ -20,15 +20,15 @@ table thead th {
 </style>
 
 | Exchange | Pair | Liquidity | Link |
-|---|---:|---|---|---
-| **Bittrex** | (US)NBT/**BTC** | $100,000–200,000 | https://bittrex.com/Market/Index?MarketName=BTC-NBT
-| **SouthXchange** | **BTC**/USNBT | $20,000 | https://www.southxchange.com/Market/Book/BTC/USNBT
-| **SouthXchange** | **ETH**/USNBT | $20,000 | https://www.southxchange.com/Market/Book/ETH/USNBT
-| **SouthXchange** | USNBT/**USD** | $10,000 | https://www.southxchange.com/Market/Book/USNBT/USD
-| **SouthXchange** | NSR/**BTC** | $20,000 of temporary liquidity. | https://www.southxchange.com/Market/Book/NSR/BTC
-| **SouthXchange** | NSR/**USNBT** | $20,000 of temporary liquidity. | https://www.southxchange.com/Market/Book/NSR/USNBT
-| **Alcurex** | NSR/**BTC** | NuShare buybacks daily. | https://alcurex.com/#NSR-BTC
-| **Novaexchange** | NSR/**BTC** | Buybacks daily. _Read notice under status above._ | https://novaexchange.com/market/BTC_NSR/
+|---|---:|---|---|
+| **Bittrex** | [(US)NBT/**BTC**](https://bittrex.com/Market/Index?MarketName=BTC-NBT) | $100,000–200,000
+| **SouthXchange** | [**BTC**/USNBT](https://www.southxchange.com/Market/Book/BTC/USNBT) | $20,000
+| **SouthXchange** | [**ETH**/USNBT](https://www.southxchange.com/Market/Book/ETH/USNBT) | $20,000
+| **SouthXchange** | [USNBT/**USD**](https://www.southxchange.com/Market/Book/USNBT/USD) | $10,000
+| **SouthXchange** | [NSR/**BTC**](https://www.southxchange.com/Market/Book/NSR/BTC) | $20,000 of temporary liquidity.
+| **SouthXchange** | [NSR/**USNBT**](https://www.southxchange.com/Market/Book/NSR/USNBT) | $20,000 of temporary liquidity.
+| **Alcurex** | [NSR/**BTC**](https://alcurex.com/#NSR-BTC) | NuShare buybacks daily.
+| **Novaexchange** | [NSR/**BTC**](https://novaexchange.com/market/BTC_NSR/) | Buybacks daily. _Read notice under status above._
 
 _Availability subject to velocity of demand and liquidity operator's presence._
 
