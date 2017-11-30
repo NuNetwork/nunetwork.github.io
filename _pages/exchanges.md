@@ -7,9 +7,6 @@ redirect_from:
   - /exchanges/nushares-exchanges
 menu: Exchanges
 ---
-
-***Note:** Always confirm that you are buying or selling at your expected price prior to executing a trade! Liquidity availability is subject to certain limitations.*
-
 <div id="exchanges">
 <div id="exchanges-usnbt">
 <h2>US NuBits (USNBT)</h2>
@@ -85,5 +82,7 @@ menu: Exchanges
 </ul>
 </div>
 </div>
+
+***Note:** Availability subject to velocity of demand and liquidity operator’s presence.*
 
 <br>
