@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Exchanges
-permalink: /exchanges
-redirect_from:
-  - /exchanges/nubits-exchanges
-  - /exchanges/nushares-exchanges
-menu: Exchanges
+permalink: /exchanges-v3
 ---
 <div id="exchanges">
 <div id="exchanges-usnbt">
