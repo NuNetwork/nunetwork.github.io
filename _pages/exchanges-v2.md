@@ -3,6 +3,10 @@ layout: page
 title: Exchanges
 permalink: /exchanges-v2
 ---
+<style>
+  table { border: 1px; }
+</style>
+
 | Exchange | Assets | News |
 |---|---|---
 | **Alcurex** | NSR, BTC | Deposits and withdrawals offline.
