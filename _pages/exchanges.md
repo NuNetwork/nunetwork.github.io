@@ -5,6 +5,7 @@ permalink: /exchanges
 redirect_from:
   - /exchanges/nubits-exchanges
   - /exchanges/nushares-exchanges
+redirect_to: https://discuss.nubits.com/t/exchanges-and-liquidity/5524
 menu: Exchanges
 ---
 <div id="exchanges">
