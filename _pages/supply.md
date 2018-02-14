@@ -2,5 +2,5 @@
 layout: page
 title: Supply
 permalink: /supply
-redirect_to: https://discuss.nubits.com/t/supply-reserves-and-equilibrium/3347/599
+redirect_to: https://grafana.crypto-daio.co.uk/dashboard/db/supply-reserves-and-equilibrium?refresh=30m&orgId=1
 ---
