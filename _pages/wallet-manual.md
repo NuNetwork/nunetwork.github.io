@@ -13,8 +13,7 @@ File `nu.conf` is used by NuBits Wallet for options.
 
 - Linux: `~/.nu`
 - macOS: `~/Library/Application Support/Nu`
-- Windows (8 or later): `C:\Users\%USERNAME%\AppData\Roaming\nu`
-- Windows (XP/2000/2K3): `C:\Documents and Settings\%USERNAME%\Application Data\nu`
+- Windows `%APPDATA%\Nu`
 
 ## Daemon arguments
 
