@@ -30,7 +30,7 @@ Shareholders of Nu control the development of NuBits by voting with NuShares (NS
 
 Contact us at [team@nubits.com](mailto:team@nubits.com).
 
-## Liquidity Pairs
+## Trading Pairs
 
 Create the following pairs and notify [liquidity@nubits.com](mailto:liquidity@nubits.com). Liquidity Operations will provide liquidity on exchanges where NuBits are listed with a robust API.
 
