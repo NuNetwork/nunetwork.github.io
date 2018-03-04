@@ -30,17 +30,17 @@ Contact us at [team@nubits.com](mailto:team@nubits.com).
 
 ## Liquidity Pairs
 
-Liquidity Operations will provide liquidity on exchanges where NuBits are listed with a robust API. Create the following pairs and notify [liquidity@nubits.com](mailto:liquidity@nubits.com).
+Create the following pairs and notify [liquidity@nubits.com](mailto:liquidity@nubits.com). Liquidity Operations will provide liquidity on exchanges where NuBits are listed with a robust API.
 
-- BTC/USNBT
-- ETH/EUNBT
-- BCH/CNNBT
-- USNBT/USD
-- CNNBT/CNY
+- **BTC**/USNBT
+- **ETH**/EUNBT
+- **BCH**/CNNBT
+- USNBT/**USD**
+- CNNBT/**CNY**
 
 Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR).
 
-- NSR/BTC
-- NSR/USNBT
+- NSR/**BTC**
+- NSR/**USNBT**
 
 List NuShares to enable Tier 6 in our liquidity flow.
