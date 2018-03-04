@@ -14,9 +14,9 @@ Traders use NuBits for hedging, arbitrage, and savings. USNBT was #1 in trading 
 - United States NuBits (USNBT), `--unit B`
 - Chinese NuBits (CNNBT), `--unit Y`
 - European NuBits (EUNBT), `--unit E`
-- South Korean NuBits (KRNBT) *release in March*
-- Japanese NuBits (JPNBT) *release in March*
-- World NuBits (XNBT) *release in 2018*
+- South Korean NuBits (KRNBT), *release in March*
+- Japanese NuBits (JPNBT), *release in March*
+- World NuBits (XNBT), *release in 2018*
 
 ## NuShares 
 
