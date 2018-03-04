@@ -11,7 +11,7 @@ permalink: /list-nubits
 
 Traders use NuBits for hedging, arbitrage, and savings. USNBT was #1 in trading volume at Bittrex with $86M/24h in February.
 
-- United States NuBits (USNBT), `--unit B`
+- United States NuBits (USNBT), `--unit B` or port `14002`
 - Chinese NuBits (CNNBT), `--unit Y`
 - European NuBits (EUNBT), `--unit E`
 - South Korean NuBits (KRNBT), *release in March*
@@ -21,6 +21,8 @@ Traders use NuBits for hedging, arbitrage, and savings. USNBT was #1 in trading 
 ## NuShares 
 
 Shareholders of Nu control the development of NuBits by voting with NuShares (NSR).
+
+- NuShares (NSR), `--unit S` or port `14001`
 
 ## Wallet
 
@@ -43,4 +45,4 @@ Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR
 - NSR/**BTC**
 - NSR/**USNBT**
 
-List NuShares to enable Tier 6 in our liquidity flow.
+**List NuShares to enable Tier 6 in our liquidity flow.**
