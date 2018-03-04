@@ -5,25 +5,42 @@ menu: Documentation
 show_sidebar: true
 permalink: /list-nubits
 ---
-**List our stable cryptocurrencies and give your traders access to the benefits of NuBits. Include NuShares for investors with minimal additional effort.**
+**List our stable cryptocurrencies and give your traders access to the benefits of NuBits.**
 
-Set up NuBits as pairs with xxNBT as denominator to attract most traders. They're accustomed to using BTC/USD (or BTC/CNY), and our currency US NuBits is pegged to the US dollar, making BTC/USNBT far more intuitive. SouthXchange is an excellent reference.
+## NuBits
 
-We will provide peg-supporting liquidity at exchanges where NuBits is paired with Bitcoin, Ethereum, or US dollar. Our spread is always below or equal to 1%, and includes the exchange fee for everyone's convenience. Our price feeds are averages of aggregated sources.
+Traders use NuBits for hedging, arbitrage, and savings. USNBT was #1 in trading volume at Bittrex with $86M/24h in February.
 
-## List NuBits
+- United States NuBits (USNBT), `--unit B`
+- Chinese NuBits (CNNBT), `--unit Y`
+- European NuBits (EUNBT), `--unit E`
+- South Korean NuBits (KRNBT) *release in March*
+- Japanese NuBits (JPNBT) *release in March*
+- World NuBits (XNBT) *release in 2018*
 
-1. [Download](/wallet) or compile NuBits Wallet from [source](/source).
-2. Use our recommended settings in `nu.conf`.
-3. Contact [team@nubits.com](mailto:team@nubits.com) at any time.
+## NuShares 
 
-### Exchange settings
+Shareholders of Nu control the development of NuBits by voting with NuShares (NSR).
 
-```
-debug=1
-stakegen=0
-splitshareoutputs=0
-avatar=0
-```
+## Wallet
 
-See [NuBits Wallet Manual](https://nubits.com/wallet-manual) for location of `nu.conf`.
+**[Download](/wallet) or compile NuBits Wallet from [source](/source).**
+
+Contact us at [team@nubits.com](mailto:team@nubits.com).
+
+## Liquidity Pairs
+
+Liquidity Operations will provide liquidity on exchanges where NuBits are listed with a robust API. Create the following pairs and notify [liquidity@nubits.com](mailto:liquidity@nubits.com).
+
+- BTC/USNBT
+- ETH/EUNBT
+- BCH/CNNBT
+- USNBT/USD
+- CNNBT/CNY
+
+Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR).
+
+- NSR/BTC
+- NSR/USNBT
+
+List NuShares to enable Tier 6 in our liquidity flow.
