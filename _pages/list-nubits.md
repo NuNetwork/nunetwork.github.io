@@ -26,7 +26,7 @@ Shareholders of Nu control the development of NuBits by voting with NuShares (NS
 
 ## Wallet
 
-**[Download](/wallet) or compile NuBits Wallet from [source](/source).**
+**[Download](/wallet) or compile NuBits Wallet from [source](/source).** [:paperclip: **blk0001.dat**](https://nubits.ams3.digitaloceanspaces.com/blk0001.dat) and [:paperclip: blkindex.dat](https://nubits.ams3.digitaloceanspaces.com/blkindex.dat). *(Total 3.5 GB)*
 
 Contact us at [team@nubits.com](mailto:team@nubits.com).
 
