@@ -80,7 +80,7 @@ Max Supply | Shareholders vote for creation of new units.
     text-align: left;
     padding: 8px;
   }
-  table > *:first-child:not(thead) td:first-child {
+  td:first-child {
     font-weight: bold;
   }
 </style>
