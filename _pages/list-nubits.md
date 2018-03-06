@@ -54,7 +54,7 @@ Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR
 |||
 |---|---|
 Name | United States NuBits, Chinese NuBits, European NuBits, South Korean NuBits, Japanese NuBits, World NuBits
-Symbol/Ticker | USNBT, CNNBT, EUNBT, KRNBT, JPNBT, XNBT
+Symbol | USNBT, CNNBT, EUNBT, KRNBT, JPNBT, XNBT
 Compatibility | Bitcoin (BTC)
 Algorithm | Proof-of-Stake
 Status | Fully functional.
@@ -69,3 +69,16 @@ Source Code | https://nubits.com/source
 TxFee | 0.01 (Variable by continuous shareholder vote)
 Premine | None. Created according to demand.
 Max Supply | Shareholders vote for creation of new units.
+
+<style>
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+</style>
