@@ -9,12 +9,12 @@ redirect_from:
 menu: Documentation
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="" style="float: left; margin: 10px 60px 40px 20px">
-**NuShares is the company stock and the backbone reserve for NuBits. Shareholders control the network by voting, and have power to …**
+**NuShares enable shareholder control of network parameters.**
 
 - Issue new NuBits (USNBT, CNNBT, EUNBT, KRNBT, JPNBT, XNBT).
 - Issue new NuShares (NSR).
 - Adjust transaction fees.
-- Adjust park rates (tier 5).
+- Adjust park rates (Tier 5).
 
 *Learn the essentials of NuBits' [liquidity model](https://discuss.nubits.com/t/nubits-liquidity-model/5395) and view [current supply figures](https://nubits.com/supply).*
 
