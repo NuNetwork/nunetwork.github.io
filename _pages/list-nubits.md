@@ -9,7 +9,7 @@ permalink: /list-nubits
 
 ## NuBits
 
-Traders use NuBits for hedging, arbitrage, savings, and transfers between exchanges. We bring always available liquidity to your exchange. USNBT was #1 in trading volume at Bittrex with $86M/24h in February.
+Traders use NuBits for hedging, arbitrage, savings, and transfers between exchanges. USNBT was #1 in trading volume at Bittrex with $86M/24h in February. Listing NuBits is an easy way to increase liquidity on your exchange.
 
 - United States NuBits (USNBT), `--unit B` or port `14002`
 - Chinese NuBits (CNNBT), `--unit Y`
