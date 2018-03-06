@@ -3,7 +3,9 @@ layout: page
 show_sidebar: true
 title: NuShares
 permalink: /nushares
-redirect_from: /nushares/introduction
+redirect_from:
+- /nushares/introduction
+- /nushares/voting-mechanics
 menu: NuShares
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/assets/nushares-logo-full-150-twotone.png" width="150" height="143" alt="" style="float: left; margin: 10px 60px 40px 20px">
