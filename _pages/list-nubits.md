@@ -51,9 +51,8 @@ Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR
 
 ## Specifications
 
-|||
+| Name | United States NuBits, Chinese NuBits, European NuBits, South Korean NuBits, Japanese NuBits, World NuBits
 |---|---|
-Name | United States NuBits, Chinese NuBits, European NuBits, South Korean NuBits, Japanese NuBits, World NuBits
 Symbol | USNBT, CNNBT, EUNBT, KRNBT, JPNBT, XNBT
 Compatibility | Bitcoin (BTC)
 Algorithm | Proof-of-Stake
@@ -80,5 +79,8 @@ Max Supply | Shareholders vote for creation of new units.
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+  }
+  table > *:first-child:not(thead) td:first-child {
+    font-weight: bold;
   }
 </style>
