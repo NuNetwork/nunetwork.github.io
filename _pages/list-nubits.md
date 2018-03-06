@@ -9,7 +9,7 @@ permalink: /list-nubits
 
 ## NuBits
 
-Traders use NuBits for hedging, arbitrage, and savings. USNBT was #1 in trading volume at Bittrex with $86M/24h in February.
+Traders use NuBits for hedging, arbitrage, savings, and transfers between exchanges. We bring always available liquidity to your exchange. USNBT was #1 in trading volume at Bittrex with $86M/24h in February.
 
 - United States NuBits (USNBT), `--unit B` or port `14002`
 - Chinese NuBits (CNNBT), `--unit Y`
@@ -48,3 +48,24 @@ Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR
 - NSR/**USNBT**
 
 **List NuShares to enable Tier 6 in our liquidity flow.**
+
+## Specifications
+
+|||
+|---|---|
+Name | United States NuBits, Chinese NuBits, European NuBits, South Korean NuBits, Japanese NuBits, World NuBits
+Symbol/Ticker | USNBT, CNNBT, EUNBT, KRNBT, JPNBT, XNBT
+Base | BTC
+Algorithm | Proof-of-Stake
+Status | Fully functional.
+Launch | 2014
+Location | Worldwide with contractors in Sweden, UK, France, and Japan.
+Website | https://nubits.com
+Exchanges | https://nubits.com/exchanges
+CoinMarketCap | https://coinmarketcap.com/currencies/nubits/
+Twitter | https://twitter.com/OfficialNuBits
+Explorer | https://explorer.nubits.com
+Source Code | https://nubits.com/source
+TxFee | 0.01 (Variable by continuous shareholder vote)
+Premine | None. Created according to demand.
+Max Supply | Shareholders vote for creation of new units.
