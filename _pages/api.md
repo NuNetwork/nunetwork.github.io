@@ -33,14 +33,13 @@ European NuBits | EUNBT | E | `14004` |
 World NuBits | XNBT | X | `14005` | *release in 2018*
 South Korean NuBits | KRNBT | W | `14006` | *release in March*
 Japanese NuBits | JPNBT | J | `14007` | *release in March*
-
-*Testnet ports begin at `15001` (NSR).*
+<br>
+*Testnet ports: `15001+`*
 
 ## Protocol Ports
 
-Production | Testnet
----|---
-7890 | 7895
+**Production:** `7890`  
+Testnet: `7895`
 
 ## Commands
 
