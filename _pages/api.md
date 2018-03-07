@@ -11,6 +11,16 @@ Argument `--unit=<initial>` specifies asset type. Daemon defaults to NuShares (N
 
 **Example:** `nud --unit=B getnewaddress` creates a USNBT address. `nud getnewaddress` creates an NSR address.
 
+| Asset | Symbol | Initial | Port | Note |
+|---|--:|:-:|---|---|
+NuShares | NSR | S | `14001` | 
+United States NuBits | USNBT | B | `14002` | 
+Chinese NuBits | CNNBT | Y | `14003` | 
+European NuBits | EUNBT | E | `14004` | 
+World NuBits | XNBT | X | `14005` | *release in 2018*
+South Korean NuBits | KRNBT | W | `14006` | *release in March*
+Japanese NuBits | JPNBT | J | `14007` | *release in March*
+
 ## Protocol Ports
 
 Production | Testnet
