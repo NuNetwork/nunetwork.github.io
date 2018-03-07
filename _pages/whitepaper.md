@@ -6,15 +6,11 @@ permalink: /whitepaper
 redirect_from: /about/white-paper
 layout: page
 ---
-**Note 1:** The whitepaper was published on September 23, 2014 and several enhancements have occurred since then. Please join us on [discuss.nubits.com](http://discuss.nubits.com) to participate in discussion about proposed enhancements to the Nu network.
+Whitepaper was published September 23, 2014. Changes implemented since are not reflected by the whitepaper. Get involved to gain understanding of the Nu and NuBits in production today.
 
-**Note 2:** Two additional mechanisms have been included in Nu v2.0 that will allow shareholders to quickly reduce the supply of NuBits in circulation:
+<center><a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/nu-whitepaper-23_sept_2014-en.pdf">Whitepaper PDF (English)</a> <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/WhitePaper%20_CHN_%20v1.01.pdf">下载白皮书（中文)</a></center><br>
 
-1. [NuBits-for-NuShares burning](https://discuss.nubits.com/t/passed-motion-to-permit-nushare-custodians-and-burning-transactions/1155)
-
-2. [Variable transaction fees](https://discuss.nubits.com/t/passed-finalized-motion-for-protocol-changes/372)
-
-<center><a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/nu-whitepaper-23_sept_2014-en.pdf">Download White Paper (English)</a> <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/WhitePaper%20_CHN_%20v1.01.pdf">下载白皮书（中文)</a></center><br>
+<hr>
 
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center><br>
 
