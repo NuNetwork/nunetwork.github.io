@@ -50,7 +50,7 @@ Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR
 
 | Name | NuShares, NuBits
 |:--|:--|
-Symbol | NSR, USNBT, CNNBT, EUNBT, KRNBT, JPNBT, XNBT
+Symbol | NSR, USNBT, CNNBT, EUNBT, XNBT, KRNBT, JPNBT
 Compatibility | Bitcoin JSON-RPC
 Algorithm | Proof-of-Stake
 Status | Fully functional.
