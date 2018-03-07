@@ -30,11 +30,7 @@ Median vote is the fee. 60 blocks in the past. NuBits Wallet defaults to the hig
 
 Shareholders can offer interest on NuBits taken out of circulation in order to stimulate demand. An Annual Percentage Rate (APR) is calculated from a 2,000-block window offset by 60 blocks in the past to enable prediction of rates 60 minutes ahead. Parking will lock the NuBits from spending for the duration chosen.
 
-Each duration APR is calculated individually against other voted rates for the same duration. Each rate vote is weighted by the share days destroyed (SDD) when a block is minted. Effective rate is the median APR from counting each SDD as a single vote for a set rate.
-
 Rates can be increased approximately 3% per day (0.002% per block), and can be decreased approximately 6% per day (0.004% per block) if necessary to ensure the network can be responsive to changing market conditions.
-
-Share days are accrued by shares if they are undisturbed (not sent or staked) after becoming a verified transaction. After seven days, shares are fully matured (usable for voting). Holding shares beyond this date has no impact on the difficulty of minting a block creating an incentive for shareholders to vote as soon as possible. Split outputs into 10,000 NSR chunks to optimize for voting (note that transaction fee may increase).
 
 ## Data Feeds
 
