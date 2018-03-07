@@ -4,53 +4,18 @@ title: APIs
 permalink: /api
 menu: Documentation
 show_sidebar: true
-callouts:
-  - shortname: use-ports-application
-    type: warning
-    title: For applications use network ports
-    body: Network ports should always be used in cases of connecting your application with Nu (such as an exchange). 
 ---
 ## JSON-RPC API in NuBits Wallet
 
-Many commands can be used for multiple units (NuBits or NuShares). Some commands will force you to specify the unit code (B or S), but others will not. In the cases where you aren't required to provide the code, commands will default to NuShares. If you would like to use other units it can be done a couple different ways. 
+Argument `--unit=<initial>` specifies asset type. Daemon defaults to NuShares (NSR), i.e. `--unit=S`. NuBits Wallet daemon is executable `nud`.
 
-* Pointing to the units network port
-* Preceeding commands with the `--unit=<unit>` parameter
+**Example:** `nud --unit=B getnewaddress` creates a USNBT address. `nud getnewaddress` creates an NSR address.
 
-{% include callout-block.html name="use-ports-application" %}
+## Protocol Ports
 
-## Command Line
-
-The `--unit=<unit>` flag is provided as a command-line convenience. To get a new NuBits address from the daemon you run `./nud --unit=B getnewaddress` as `./nud getnewaddress` would return a NuShare address by default.
-
-## Nu Network Ports
-
-Example of pointing Peatio exchange to use NuBits from the daemon:
-
-`rpc: http://nuEx:123exch@127.0.0.1:14002`
-
-### Protocol Ports
-
-Production Network | Test Network
-----------|----------
+Production | Testnet
+---|---
 7890 | 7895
-
-### RPC Ports
-
-Unit | Production Network | Test Network
-----------|----------|----------
-NuShares | 14001 | 15001
-NuBits | 14002 | 15002
-
-### Other Networks RPC
-
-#### Peercoin
-
-Target ports used when communicating with the Peercoin wallet for dividend distributions.
-
-Production Network | Test Network
-----------|----------
-9902 | 9904
 
 ## Commands
 
