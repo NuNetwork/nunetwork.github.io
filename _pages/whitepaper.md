@@ -8,7 +8,7 @@ layout: page
 ---
 Whitepaper was published September 23, 2014. Changes implemented since are not reflected by the whitepaper. Get involved to gain understanding of the Nu and NuBits in production today.
 
-<a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/nu-whitepaper-23_sept_2014-en.pdf">Whitepaper PDF (English)</a> <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/WhitePaper%20_CHN_%20v1.01.pdf">下载白皮书（中文)</a>
+<a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/nu-whitepaper-23_sept_2014-en.pdf">Whitepaper PDF (English)</a> <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/assets/WhitePaper%20_CHN_%20v1.01.pdf">白皮书（中文）</a>
 
 <hr>
 <br>
