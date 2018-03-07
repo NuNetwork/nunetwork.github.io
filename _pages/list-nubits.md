@@ -11,18 +11,15 @@ permalink: /list-nubits
 
 Traders use NuBits for hedging, arbitrage, savings, and transfers between exchanges. USNBT was #1 in trading volume at Bittrex with $86M/24h in February. Listing NuBits is an easy way to increase liquidity on your exchange.
 
-- United States NuBits (USNBT), `--unit B` or port `14002`
-- Chinese NuBits (CNNBT), `--unit Y`
-- European NuBits (EUNBT), `--unit E`
-- South Korean NuBits (KRNBT), *release in March*
-- Japanese NuBits (JPNBT), *release in March*
-- World NuBits (XNBT), *release in 2018*
-
-## NuShares 
-
-Shareholders of Nu control the development of NuBits by voting with NuShares (NSR).
-
-- NuShares (NSR), `--unit S` or port `14001`
+| Asset | Symbol | Initial | Port | Note |
+|---|--:|:-:|---|---|
+NuShares | NSR | S | `14001` | 
+United States NuBits | USNBT | B | `14002` | 
+Chinese NuBits | CNNBT | Y | `14003` | 
+European NuBits | EUNBT | E | `14004` | 
+World NuBits | XNBT | X | `14005` | *release in 2018*
+South Korean NuBits | KRNBT | W | `14006` | *release in March*
+Japanese NuBits | JPNBT | J | `14007` | *release in March*
 
 ## Wallet
 
@@ -51,7 +48,7 @@ Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR
 
 ## Specifications
 
-| Name | NuShares; United States NuBits; Chinese, European, South Korean, Japanese, and World NuBits
+| Name | NuShares, NuBits
 |:--|:--|
 Symbol | NSR, USNBT, CNNBT, EUNBT, KRNBT, JPNBT, XNBT
 Compatibility | Bitcoin JSON-RPC
