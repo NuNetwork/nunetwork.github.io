@@ -12,7 +12,7 @@ menu: Documentation
 
 **NuShares enable shareholder control of the network.**
 
-One vote requires 10,000 NSR untouched for one week. Voting reward is 40 NSR.
+One vote requires 10,000 NSR untouched for one week. Voting reward is 40 NSR/vote.
 
 ## Grants
 
