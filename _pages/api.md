@@ -20,6 +20,8 @@ show_sidebar: true
 
 ## JSON-RPC API in NuBits Wallet
 
+Exchanges should use asset-specific port instead of the CLI argument `--unit=`.
+
 Argument `--unit=<initial>` specifies asset type. Daemon defaults to NuShares (NSR), i.e. `--unit=S`. NuBits Wallet daemon is executable `nud`.
 
 **Example:** `nud --unit=B getnewaddress` creates a USNBT address. `nud getnewaddress` creates an NSR address.
