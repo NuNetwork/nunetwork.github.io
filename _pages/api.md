@@ -5,6 +5,19 @@ permalink: /api
 menu: Documentation
 show_sidebar: true
 ---
+<style>
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+</style>
+
 ## JSON-RPC API in NuBits Wallet
 
 Argument `--unit=<initial>` specifies asset type. Daemon defaults to NuShares (NSR), i.e. `--unit=S`. NuBits Wallet daemon is executable `nud`.
