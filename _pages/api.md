@@ -33,6 +33,7 @@ European NuBits | EUNBT | E | `14004` |
 World NuBits | XNBT | X | `14005` | *release in 2018*
 South Korean NuBits | KRNBT | W | `14006` | *release in March*
 Japanese NuBits | JPNBT | J | `14007` | *release in March*
+
 <br>
 *Testnet ports: `15001+`*
 
