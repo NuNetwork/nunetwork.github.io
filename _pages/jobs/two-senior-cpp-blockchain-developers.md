@@ -4,6 +4,7 @@ show_sidebar: true
 title: Two Senior C++ Blockchain Developers
 permalink: /jobs/two-senior-cpp-blockchain-developers
 menu: Jobs
+redirect_to: https://jobs.nubits.com/o/two-senior-c-blockchain-developers-core-client-protocol-and-automation
 ---
 Two full-time contractor positions need to be filled.
 
