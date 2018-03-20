@@ -25,8 +25,6 @@ Japanese NuBits | JPNBT | J | `14007` | *release in March*
 
 **[Download](/wallet) or compile NuBits Wallet from [source](/source).**
 
-**Blockchain:** [blk0001.dat](https://nubits.ams3.digitaloceanspaces.com/blk0001.dat) and [blkindex.dat](https://nubits.ams3.digitaloceanspaces.com/blkindex.dat) *(Total 3.5 GB)*
-
 Contact us at [team@nubits.com](mailto:team@nubits.com).
 
 ## Trading Pairs
