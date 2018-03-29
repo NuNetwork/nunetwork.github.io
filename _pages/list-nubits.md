@@ -49,7 +49,7 @@ Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR
 | Name | NuShares, NuBits
 |:--|:--|
 Symbol | NSR, USNBT, CNNBT, EUNBT, XNBT, KRNBT, JPNBT
-Compatibility | Bitcoin JSON-RPC
+Compatibility | Bitcoin [UTXO](https://en.wikipedia.org/wiki/Unspent_transaction_output), JSON-RPC [API](https://nubits.com/api)
 Algorithm | Proof-of-Stake
 Status | Fully functional.
 Launch | 2014
@@ -62,7 +62,7 @@ Explorer | https://explorer.nubits.com
 Source Code | https://nubits.com/source
 TxFee | NuBits: 0.01; NuShares: 1.00 (Fees variable by continuous shareholder vote)
 Premine | None. Created according to demand.
-Max Supply | Shareholders vote for creation of new units.
+Supply | Shareholders vote for creation of new units. Total Supply and Circulating Supply provided via [API](https://nubits.com/api) and in [dashboard](https://grafana.crypto-daio.co.uk/d/000000027/supply-reserves-and-equilibrium?refresh=5m&panelId=13&orgId=1).
 
 <style>
   table {
