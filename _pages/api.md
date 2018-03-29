@@ -18,6 +18,19 @@ show_sidebar: true
   }
 </style>
 
+## Supply API
+
+| Figure | Endpoint |
+|---|---|
+Circulating Supply | `https://explorer.nubits.com/api/v1/coin/<symbol>/supply/circulating`
+Total Supply | `https://explorer.nubits.com/api/v1/coin/<symbol>/supply/total`
+Parked Supply | `https://explorer.nubits.com/api/v1/coin/<symbol>/supply/parked`
+Network Funds | `https://explorer.nubits.com/api/v1/coin/<symbol>/network_funds`
+
+**Example:** <https://explorer.nubits.com/api/v1/coin/USNBT/supply/circulating>
+
+*Note: `<symbol>` is case-insensitive.*
+
 ## JSON-RPC API in NuBits Wallet
 
 Connect using asset-specific ports (`14001+`). Use argument `--unit=<initial>` to specify asset when directly executing daemon `nud` which defaults to NuShares (NSR), i.e. `--unit=S`.
