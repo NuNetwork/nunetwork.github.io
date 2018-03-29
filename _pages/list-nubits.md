@@ -56,6 +56,7 @@ Launch | 2014
 Location | Worldwide with contractors in Sweden, UK, France, and Japan.
 Website | https://nubits.com
 Exchanges | https://nubits.com/exchanges
+Graphics | https://nubits.com/brand (logos and icons in PNG, AI, EPS)
 CoinMarketCap | https://coinmarketcap.com/currencies/nubits/
 Twitter | https://twitter.com/OfficialNuBits
 Explorer | https://explorer.nubits.com
