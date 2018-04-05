@@ -32,8 +32,8 @@ Shareholders can offer interest on NuBits taken out of circulation in order to s
 
 Rates can be increased approximately 3% per day (0.002% per block), and can be decreased approximately 6% per day (0.004% per block) if necessary to ensure the network can be responsive to changing market conditions.
 
-## Data Feeds
+## Voting Feeds
 
-Shareholders can subscribe to the decisions made by a trusted person or group. Data feeds enable participation in securing the network by minting while delegating the responsibility of network management.
+Voting feeds enable shareholders to increase stability and security of the network without being deeply involved themselves. Shareholders can subscribe to the decisions of a trusted person or group that publishes decisions in a voting feed. Votes can only be cast by the individual shareholder with their NuShares in a running wallet.
 
-> Alice subscribes to Bob's data feed. When Bob makes a decision and shares it in his data feed, Alice's NuBits Wallet will automatically vote accordingly.
+An example would be when Alice subscribes to Bob's data feed wherein Bob publishes his voting decisions, Alice's future votes will match the votes configured in Bob's data feed. She only has to keep the wallet running and unlocked for minting with a network connection.
