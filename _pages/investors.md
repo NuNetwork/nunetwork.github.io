@@ -10,3 +10,5 @@ Invest in Nu with [NuShares (NSR)](https://nubits.com/nushares) at open market [
 Email: [investors@nubits.com](mailto:investors@nubits.com)  
 Bitmessage: `BM-2cSnb8qEshAP93QZ1d8Rty9sBSRFvhWUWN`  
 Phone: *Available on request.*  
+
+<br>
