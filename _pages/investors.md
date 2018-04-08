@@ -3,7 +3,7 @@ layout: page
 title: Investor Relations
 permalink: /investors
 ---
-NuBits Team wants to maintain strong relations with investors and give you confidence in our operations. Speak directly with us about NuBits, NuShares, and the Nu ecosystem. Feedback from investors is valuable for the stability of NuBits which is the basis for your profit potential.
+**NuBits Team seeks to maintain strong relations with investors and give you confidence in our operations.** Speak directly with us about NuBits, NuShares, and the Nu ecosystem. Feedback from investors is valuable for the stability of NuBits which is the basis for your profit potential.
 
 Invest in Nu with [NuShares (NSR)](https://nubits.com/nushares) at open market [exchanges](https://nubits.com/exchanges).
 
