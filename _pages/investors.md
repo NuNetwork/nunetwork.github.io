@@ -7,8 +7,8 @@ NuBits Team wants to maintain strong relations with investors and give you confi
 
 Invest in Nu with [NuShares (NSR)](https://nubits.com/nushares) at open market [exchanges](https://nubits.com/exchanges).
 
-Email: [investors@nubits.com](mailto:investors@nubits.com)  
-Bitmessage: `BM-2cSnb8qEshAP93QZ1d8Rty9sBSRFvhWUWN`  
-Phone: *Available on request.*  
+**Email:** [investors@nubits.com](mailto:investors@nubits.com)  
+**Bitmessage:** `BM-2cSnb8qEshAP93QZ1d8Rty9sBSRFvhWUWN`  
+**Phone:** *Available on request.*  
 
 <br>
