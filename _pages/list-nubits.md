@@ -17,9 +17,9 @@ NuShares | NSR | S | `14001` |
 United States NuBits | USNBT | B | `14002` | 
 Chinese NuBits | CNNBT | Y | `14003` | 
 European NuBits | EUNBT | E | `14004` | 
-World NuBits | XNBT | X | `14005` | *release in 2018*
-South Korean NuBits | KRNBT | W | `14006` | *release in March*
-Japanese NuBits | JPNBT | J | `14007` | *release in March*
+World NuBits | XNBT | X | `14005` |
+South Korean NuBits | KRNBT | W | `14006` |
+Japanese NuBits | JPNBT | J | `14007` |
 
 ## Wallet
 
