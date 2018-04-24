@@ -25,6 +25,13 @@ Japanese NuBits | JPNBT | J | `14007` | *release in March*
 
 **[Download](/wallet) or compile NuBits Wallet from [source](/source).**
 
+Create [`nu.conf`](https://nubits.com/wallet-manual) and use recommended *exchange* settings:
+
+```
+stakegen=0
+avatar=0
+```
+
 Contact us at [team@nubits.com](mailto:team@nubits.com).
 
 ## Trading Pairs
