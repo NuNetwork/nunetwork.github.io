@@ -32,7 +32,17 @@ stakegen=0
 avatar=0
 ```
 
-Contact us at [team@nubits.com](mailto:team@nubits.com).
+Ask us for assistance at [team@nubits.com](mailto:team@nubits.com).
+
+### Blockchain Data
+
+Synchronize the blockchain significantly faster with these steps.
+
+1. Start NuBits Wallet once to create its data directory.
+2. Close NuBits Wallet.
+3. Download [**blk0001.dat**](https://nubits.ams3.digitaloceanspaces.com/blk0001.dat) and optionally [blkindex.dat](https://nubits.ams3.digitaloceanspaces.com/blkindex.dat). *(Total 3.5 GB)*
+4. Replace with those the blockchain data files in NuBits Wallet [data directory](https://nubits.com/wallet-manual).
+5. Start NuBits Wallet.
 
 ## Trading Pairs
 
@@ -44,7 +54,7 @@ Create the following pairs and notify [liquidity@nubits.com](mailto:liquidity@nu
 - USNBT/**USD**
 - CNNBT/**CNY**
 
-Set NuBits as quote (/USNBT) for all but the associated fiat currency (EUNBT/EUR).
+Set NuBits as ‘quote’ asset (/USNBT) for all but any associated fiat currency trading pair (EUNBT/EUR).
 
 - NSR/**BTC**
 - NSR/**USNBT**
