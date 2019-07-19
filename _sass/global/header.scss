@@ -3,6 +3,7 @@
 
 header {
   .navbar {
+    font-size: 1.6rem;
   }
   .navbar-inverse {
     .navbar-nav {
@@ -21,7 +22,7 @@ header {
       // Download Wallet Button
       & > ul > .last a {
         color: #fff;
-        border: 2px solid #fff;
+        border: 2px solid #ffb800;
         border-radius: 5px;
         padding: 10px 15px;
         font-weight: 500;

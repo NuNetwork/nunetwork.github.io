@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <link rel="canonical" href="{{ page.redirect.to }}">
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  <script>location="{{ page.redirect.to }}"</script>
 
   <body class="{% if page.permalink %}page{{ page.permalink | replace: '/','-' }}{% else %}front{% endif %}">
 
@@ -19,18 +23,9 @@
 
     <div class="container">
       
-      {% if page.show_sidebar %}
-        <div class="wrapper show-sidebar">
-          {% include sidebar.html %}
-          <div class="page-content">
-            {{ content }}
-          </div>
-        </div>
-      {% else %}
-        <div class="wrapper" style="padding-left: 30px; padding-right: 30px">
-          {{ content }}
-        </div>
-      {% endif %}
+      <div class="wrapper">
+        <a href="{{ page.redirect.to }}">Continue to {{ page.redirect.to }}</a>.
+      </div>
       
     </div>
 

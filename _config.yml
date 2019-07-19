@@ -7,11 +7,11 @@
 
 # Site settings
 title: NuBits
-email: ryan@skycatchfire.com
-description: "The World's First Stable Digital Currency"
-url: "https://www.nubits.com" # with the https protocol
+email: team@nubits.com
+description: "World's Best Stable Digital Currencies"
+url: "https://nubits.com" # with the https protocol
 baseurl: "" # the subpath of your site, e.g. /blog
-enforce_ssl: "www.nubits.com" # without any protocol
+enforce_ssl: "nubits.com" # without any protocol
 
 # Build settings
 markdown: kramdown
@@ -21,4 +21,5 @@ sass:
 
 include: ["_pages"]
 
-menu-list: ["About", "Exchanges", "Liquidity Pools", "Resources", "Connect", "NuShares", "Download"]
+plugins:
+  - jekyll-redirect-from
