@@ -21,5 +21,8 @@ sass:
 
 include: ["_pages"]
 
+# Matrix federation for NuBits Chat, https://github.com/matrix-org/synapse/blob/master/docs/federate.md
+include: [".well-known"]
+
 plugins:
   - jekyll-redirect-from
