@@ -19,10 +19,9 @@ markdown: kramdown
 sass:
   style: compressed
 
-include: ["_pages"]
-
-# Matrix federation for NuBits Chat, https://github.com/matrix-org/synapse/blob/master/docs/federate.md
-#include: [".well-known"]
+include:
+  - "_pages"
+  - ".well-known" # Matrix federation for NuBits Chat, https://github.com/matrix-org/synapse/blob/master/docs/federate.md
 
 plugins:
   - jekyll-redirect-from
