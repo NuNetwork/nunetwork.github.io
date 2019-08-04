@@ -1,5 +1,8 @@
 {
   "m.homeserver": {
-    "base_url": "https://nubits.com"
+    "base_url": "https://matrix.nubits.com"
+  },
+  "m.identity_server": {
+    "base_url": "https://matrix.nubits.com"
   }
 }
