@@ -13,30 +13,25 @@ Traders use NuBits for hedging, arbitrage, savings, and transfers between exchan
 
 ## Trading Pairs
 
-Liquidity Operations always seeks to provide liquidity on exchanges where NuBits are listed with a robust API. Depending on exchange reputation and scale, you can expect initial dual-side liquidity worth 0.5-2 BTC or 2,000-15,000 USD.
+Liquidity Operations always seeks to provide liquidity on exchanges where NuBits are listed with a robust API. Depending on exchange reputation and scale, you can expect initial dual-side liquidity worth 0.5–2 BTC or 2,000–15,000 USD.
 
-We suggest the following pairs:
+We suggest the following pairs exactly as presented:
 
 Pairing Note | NuShares (NSR) | American NuBits (USNBT) | Chinese NuBits (CNNBT)
 |:--|:--|:--|:--
-Symbiotic|→|**NSR**/USNBT|**NSR**/CNNBT
+Symbiotic|See NuBit pairs →|**NSR**/USNBT|**NSR**/CNNBT
 Fiat|Ask|USNBT/**USD**|CNNBT/**CNY**
 Bitcoin|NSR/**BTC**|**BTC**/USNBT|**BTC**/CNNBT
 Ethereum|Ask|**ETH**/USNBT|Ask
 Litecoin|Ask|**LTC**/USNBT|Ask
 
 <br>
-- **BTC**/USNBT
-- **ETH**/EUNBT
-- USNBT/**USD**
-- CNNBT/**CNY**
 
-Set NuBits as ‘quote’ asset (/USNBT) for all pairs except the fiat currency trading pair (EUNBT/EUR).
+NuBits is by far **most useful being the quote asset in a trading pair (base/quote, e.g. BTC/USNBT)** for the same reason fiat currency tends to be. Everyone will appreciate reading “BTC/USNBT 7350” (which means 1 BTC is worth 7350 USNBT) instead of “USNBT/BTC 0.00013605” (meaning 1 USNBT is worth 0.00013605 BTC).
 
-- NSR/**BTC**
-- NSR/**USNBT**
+NuBits is designed as a decentralized store of value using multiple mechanism for stability and its backing, one of which involves a mutualistic liquidity flow with NuShares. Simplified, backing of NuBits today ultimately depends on the liquidity of NuShares, making it **important that you list both NuBits and NuShares on your exchange**.
 
-**NuBits' liquidity flow depends on NuShares, and they should both be listed at your exchange.**
+You can share a single instance of NuBits wallet daemon for every asset you list.
 
 ## Wallet Daemon
 
