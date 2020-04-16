@@ -23,6 +23,7 @@ Bitcoin|NSR/BTC|BTC/USNBT|BTC/CNNBT
 Ethereum|Ask|ETH/USNBT|Ask
 Litecoin|Ask|LTC/USNBT|Ask
 
+<br>
 - **BTC**/USNBT
 - **ETH**/EUNBT
 - USNBT/**USD**
