@@ -3,6 +3,8 @@ layout: page
 title: List NuBits and NuShares
 menu: Documentation
 show_sidebar: true
+redirect_from:
+  - /list-nubits
 permalink: /listing
 ---
 **List our stable cryptocurrencies and give your traders access to the benefits of NuBits.**
