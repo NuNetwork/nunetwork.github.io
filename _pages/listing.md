@@ -15,7 +15,7 @@ Traders use NuBits for hedging, arbitrage, savings, and transfers between exchan
 
 Liquidity Operations always seeks to provide liquidity on exchanges where NuBits are listed with a robust API. Depending on exchange reputation and scale, you can expect initial dual-side liquidity worth 0.5–2 BTC or 2,000–15,000 USD.
 
-We suggest the following pairs exactly as presented:
+We recommend you list NuBits and NuShares exactly as shown:
 
 Pairing Note | NuShares (NSR) | American NuBits (USNBT) | Chinese NuBits (CNNBT)
 |:--|:--|:--|:--
