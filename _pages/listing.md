@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List NuBits and NuShares
+title: Exchange Listing
 menu: Documentation
 show_sidebar: true
 redirect_from:
@@ -75,14 +75,14 @@ Supply | Shareholders vote for creation of new NuBits or NuShares. Total Supply 
 
 | Target | Link |
 |:--|:--|
-Website | https://nubits.com
-Explorer | https://explorer.nubits.com
-Source Code | https://nubits.com/source
-Graphics | https://nubits.com/brand (logos and icons in PNG, AI, EPS)
-Exchanges | https://nubits.com/exchanges
-Bitcointalk | https://bitcointalk.org/index.php?topic=1888853
-CoinMarketCap | https://coinmarketcap.com/currencies/nushares/; https://coinmarketcap.com/currencies/nubits/
-Twitter | https://twitter.com/OfficialNuBits
+Website | <https://nubits.com>
+Explorer | <https://explorer.nubits.com>
+Source Code | <https://nubits.com/source>
+Graphics | <https://nubits.com/brand> (logos and icons in PNG, AI, EPS)
+Exchanges | <https://nubits.com/exchanges>
+Bitcointalk | <https://bitcointalk.org/index.php?topic=1888853>
+CoinMarketCap | <https://coinmarketcap.com/currencies/nushares/>; <https://coinmarketcap.com/currencies/nubits/>
+Twitter | <https://twitter.com/OfficialNuBits>
 
 # Technical
 
